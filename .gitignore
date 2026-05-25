@@ -1,0 +1,15 @@
+.DS_Store
+node_modules/
+*.log
+.env
+.env.local
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+.venv/
+dist/
+build/
+.claude/         # Claude Code 本地配置(skill 链接等)
+*.tmp
+.tmp/
