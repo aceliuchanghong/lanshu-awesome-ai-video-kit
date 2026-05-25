@@ -11,19 +11,19 @@
 ### English (concise)
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/lanshu/lanshu-awesome-ai-video-kit) - Curated AI video prompt engineering kit covering 15 models (Sora / Veo / Kling / Runway / Pika / Seedance / Hunyuan / Wan / Jimeng + 4 open source) with 301 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills and 14 methodology docs.
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - Curated AI video prompt engineering kit covering 15 models (Sora / Veo / Kling / Runway / Pika / Seedance / Hunyuan / Wan / Jimeng + 4 open source) with 301 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills and 14 methodology docs.
 ```
 
 ### English (expanded — for "Resources" sections)
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/lanshu/lanshu-awesome-ai-video-kit) - The most complete AI video prompt library on the web. 11 commercial flagships + 4 open source models, 301 standalone prompts + 110 cross-model matrix (10 scenarios × 11 models), 7 Claude Code Skills including a `model-selector` (15-model shopping advisor) and a `prompt-translator` (cross-model converter based on 110-prompt baseline), 14 methodology SOPs, and a weekly GitHub Action auto-monitoring 32 official endpoints for model version drift.
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - The most complete AI video prompt library on the web. 11 commercial flagships + 4 open source models, 301 standalone prompts + 110 cross-model matrix (10 scenarios × 11 models), 7 Claude Code Skills including a `model-selector` (15-model shopping advisor) and a `prompt-translator` (cross-model converter based on 110-prompt baseline), 14 methodology SOPs, and a weekly GitHub Action auto-monitoring 32 official endpoints for model version drift.
 ```
 
 ### 中文
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/lanshu/lanshu-awesome-ai-video-kit) - 全网最全的 AI 视频提示词工程库,覆盖 15 大模型(11 商业 + 4 开源),301 条实测提示词 + 110 条跨模型对照 + 7 个 Claude Code Skill + 14 篇方法论,GitHub Action 每周自动监控 27 个官方端点。
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - 全网最全的 AI 视频提示词工程库,覆盖 15 大模型(11 商业 + 4 开源),301 条实测提示词 + 110 条跨模型对照 + 7 个 Claude Code Skill + 14 篇方法论,GitHub Action 每周自动监控 27 个官方端点。
 ```
 
 ---
@@ -69,7 +69,7 @@ Adherence to [awesome.re criteria](https://github.com/sindresorhus/awesome/blob/
 ## 🏷️ Suggested badges (for upstream README cell)
 
 ```html
-<a href="https://github.com/lanshu/lanshu-awesome-ai-video-kit">
+<a href="https://github.com/cclank/lanshu-awesome-ai-video-kit">
   <img alt="Models" src="https://img.shields.io/badge/models-15-8b5cf6?style=flat">
   <img alt="Prompts" src="https://img.shields.io/badge/prompts-411-f97316?style=flat">
   <img alt="Skills" src="https://img.shields.io/badge/skills-7-06b6d4?style=flat">
@@ -100,7 +100,7 @@ Adds **lanshu-awesome-ai-video-kit** to the [Video] section.
 
 ## Description
 
-[lanshu-awesome-ai-video-kit](https://github.com/lanshu/lanshu-awesome-ai-video-kit) is a curated, actively-maintained kit for AI video prompt engineering. It covers 15 models (11 commercial + 4 open source), 301 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills, and 14 methodology SOPs. A GitHub Action monitors 32 official endpoints weekly and auto-files issues on version drift.
+[lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) is a curated, actively-maintained kit for AI video prompt engineering. It covers 15 models (11 commercial + 4 open source), 301 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills, and 14 methodology SOPs. A GitHub Action monitors 32 official endpoints weekly and auto-files issues on version drift.
 
 ## Checklist
 

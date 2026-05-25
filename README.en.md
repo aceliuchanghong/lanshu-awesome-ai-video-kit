@@ -323,6 +323,6 @@ MIT — prompt content sourced from public docs & review blogs, for educational 
 
 **⭐ Star** if this helped you
 
-Made with ❤️ by [lanshu](https://github.com/lanshu) · CHANGELOG: [v0.8.0](CHANGELOG.md)
+Made with ❤️ by [lanshu](https://github.com/cclank) · CHANGELOG: [v0.8.0](CHANGELOG.md)
 
 </div>
