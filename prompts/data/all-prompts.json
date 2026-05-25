@@ -2649,7 +2649,7 @@
       "tags": ["digital-human", "lip-sync", "presenter", "wan-official"],
       "params": { "aspect": "16:9", "duration": "8s" },
       "source": { "name": "Alibaba Cloud", "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt" },
-      "notes": "Wan 2.5 看家本领：数字人 lip-sync，业界对口型最准"
+      "notes": "Wan 2.7 看家本领：数字人 lip-sync，业界对口型最准"
     },
     {
       "id": "wn-002",

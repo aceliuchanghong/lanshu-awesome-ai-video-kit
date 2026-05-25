@@ -98,12 +98,30 @@
     display: flex; align-items: center; gap: 8px;
     font-weight: 700; font-size: 13px; color: var(--text-primary);
     padding-right: 12px; border-right: 1px solid var(--glass-border); margin-right: 4px;
+    transition: opacity .15s;
   }
+  .brand:hover { opacity: 0.78; }
+  .brand-logo-box {
+    width: 24px; height: 24px;
+    display: grid; place-items: center;
+    background: linear-gradient(135deg, #a78bfa, #f472b6);
+    border-radius: 7px;
+    box-shadow: 0 3px 10px rgba(167, 139, 250, 0.4);
+  }
+  .brand-logo-box svg { width: 15px; height: 15px; }
   .brand-dot {
     width: 7px; height: 7px; border-radius: 50%;
     background: linear-gradient(135deg, #a78bfa, #f472b6);
     box-shadow: 0 0 12px var(--accent-glow);
   }
+  .nav-link.home-cta {
+    display: inline-flex; align-items: center; gap: 5px;
+    background: linear-gradient(135deg, #a78bfa, #f472b6);
+    color: #fff; font-weight: 600;
+    box-shadow: 0 4px 14px rgba(167, 139, 250, 0.35);
+  }
+  .nav-link.home-cta:hover { background: linear-gradient(135deg, #a78bfa, #f472b6); transform: translateY(-1px); }
+  .nav-link.home-cta svg { width: 13px; height: 13px; }
   .nav-link {
     padding: 7px 13px; border-radius: var(--r-full);
     color: var(--text-secondary); text-decoration: none;
@@ -384,17 +402,31 @@
     .anchor-use-case { width: 100%; margin-left: 0; }
   }
 </style>
+
+<!-- 全站统一主题 -->
+<link rel="stylesheet" href="/assets/site-theme.css">
 </head>
 <body>
 
 <nav class="top">
-  <a class="brand" href="../../" style="text-decoration: none; color: inherit;">
-    <span class="brand-dot"></span><span>video-kit</span>
+  <a class="brand" href="../../" title="返回主页" style="text-decoration: none; color: inherit;">
+    <span class="brand-logo-box">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6 9L12 3L18 9L12 21L6 9Z" fill="white" fill-opacity="0.95" stroke="white" stroke-width="1.2" stroke-linejoin="round"/>
+        <path d="M6 9H18M9 9L12 21M15 9L12 21M9 9L12 3M15 9L12 3" stroke="rgba(167,139,250,0.6)" stroke-width="0.8"/>
+      </svg>
+    </span>
+    <span>video-kit</span>
   </a>
-  <a class="nav-link" href="../../">主页</a>
-  <a class="nav-link" href="../prompt-browser/">Prompt Browser</a>
-  <a class="nav-link" href="../../methodology/">方法论</a>
-  <a class="nav-link cta" href="../../prompts/cross-model/README.md">说明 README →</a>
+  <a class="nav-link" href="../../methodology/">📖 Methodology</a>
+  <a class="nav-link" href="../../prompts/">📚 Prompts</a>
+  <a class="nav-link" href="../../skills/">🛠️ Skills</a>
+  <a class="nav-link" href="../prompt-browser/">🌐 Browser</a>
+  <a class="nav-link active" href="./">🔀 Matrix</a>
+  <a class="nav-link home-cta" href="../../" title="返回主页">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12l9-9 9 9M5 10v10h14V10"/></svg>
+    主页
+  </a>
   <button class="nav-icon-btn" id="themeToggle" title="切换主题">
     <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
       <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
@@ -652,5 +684,7 @@ try {
 loadData();
 </script>
 
+<!-- 全站统一主题切换 -->
+<script src="/assets/site-theme.js" defer></script>
 </body>
 </html>

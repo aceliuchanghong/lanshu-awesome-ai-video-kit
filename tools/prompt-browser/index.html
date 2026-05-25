@@ -183,7 +183,20 @@
     color: var(--text-primary);
     letter-spacing: -0.01em;
     white-space: nowrap;
+    transition: opacity .15s;
   }
+  .brand:hover { opacity: 0.78; }
+  .brand-logo-box {
+    width: 28px;
+    height: 28px;
+    display: grid;
+    place-items: center;
+    background: linear-gradient(135deg, #a78bfa, #f472b6);
+    border-radius: 8px;
+    box-shadow: 0 4px 14px rgba(167, 139, 250, 0.4);
+    flex-shrink: 0;
+  }
+  .brand-logo-box svg { width: 18px; height: 18px; }
   .brand-dot {
     width: 8px;
     height: 8px;
@@ -201,6 +214,65 @@
     font-weight: 400;
     font-size: 12px;
     letter-spacing: 0;
+  }
+
+  /* 返回主页按钮(显眼) */
+  .home-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 7px 14px;
+    background: linear-gradient(135deg, #a78bfa, #f472b6);
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+    font-weight: 600;
+    border-radius: 999px;
+    box-shadow: 0 4px 14px rgba(167, 139, 250, 0.35);
+    transition: transform .15s, box-shadow .15s, opacity .15s;
+    white-space: nowrap;
+  }
+  .home-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(167, 139, 250, 0.5);
+  }
+  .home-btn svg { width: 14px; height: 14px; }
+  @media (max-width: 720px) {
+    .home-btn span { display: none; }
+    .home-btn { padding: 7px 9px; }
+  }
+
+  /* 跨页 tabs (与索引页一致) */
+  .nav-tabs {
+    display: flex;
+    align-items: center;
+    gap: 2px;
+    padding: 4px;
+    background: var(--glass-bg);
+    border: 1px solid var(--glass-border);
+    border-radius: 999px;
+  }
+  .nav-tab {
+    padding: 6px 12px;
+    border-radius: 999px;
+    color: var(--text-secondary);
+    text-decoration: none;
+    font-size: 12.5px;
+    font-weight: 500;
+    transition: all .15s;
+    white-space: nowrap;
+  }
+  .nav-tab:hover {
+    color: var(--text-primary);
+    background: var(--glass-hover);
+  }
+  .nav-tab.active {
+    color: var(--text-primary);
+    background: var(--accent-soft);
+    font-weight: 600;
+  }
+  @media (max-width: 1100px) {
+    .nav-tabs { display: none; }
   }
 
   .search {
@@ -962,15 +1034,23 @@
     .drawer { width: 100vw; padding: 24px 18px 50px; }
   }
 </style>
+
+<!-- 全站统一主题(与主页保持一致,放最后以覆盖 inline tokens) -->
+<link rel="stylesheet" href="/assets/site-theme.css">
 </head>
 <body>
 
 <header>
-  <div class="brand">
-    <div class="brand-dot"></div>
+  <a class="brand" href="../../" title="返回主页" style="text-decoration: none; color: inherit;">
+    <span class="brand-logo-box">
+      <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M6 9L12 3L18 9L12 21L6 9Z" fill="white" fill-opacity="0.95" stroke="white" stroke-width="1.2" stroke-linejoin="round"/>
+        <path d="M6 9H18M9 9L12 21M15 9L12 21M9 9L12 3M15 9L12 3" stroke="rgba(167,139,250,0.6)" stroke-width="0.8"/>
+      </svg>
+    </span>
     <span>Prompt Browser</span>
-    <span class="brand-meta">· lanshu-awesome-ai-video-kit</span>
-  </div>
+    <span class="brand-meta">· video-kit</span>
+  </a>
 
   <div class="search">
     <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -980,8 +1060,20 @@
     <span class="kbd" id="kbdHint">/</span>
   </div>
 
+  <nav class="nav-tabs" aria-label="主导航">
+    <a class="nav-tab" href="../../methodology/">📖 Methodology</a>
+    <a class="nav-tab" href="../../prompts/">📚 Prompts</a>
+    <a class="nav-tab" href="../../skills/">🛠️ Skills</a>
+    <a class="nav-tab active" href="./">🌐 Browser</a>
+    <a class="nav-tab" href="../cross-model/">🔀 Matrix</a>
+  </nav>
+
   <div class="header-actions">
     <span class="stats" id="stats">载入中…</span>
+    <a class="home-btn" href="../../" title="返回主页">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12l9-9 9 9M5 10v10h14V10"/></svg>
+      <span>主页</span>
+    </a>
     <button class="icon-btn" id="themeToggle" title="切换主题" aria-label="切换主题">
       <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
         <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>
@@ -992,13 +1084,13 @@
 
 <section class="hero">
   <div class="hero-text">
-    <div class="hero-title">最全的 AI 视频提示词工程库 <span class="accent">· 11 模型 · 269 精选</span></div>
-    <div class="hero-sub">覆盖 Seedance · HappyHorse · Kling · Sora · Veo · Runway · Pika · Hailuo · Hunyuan · Wan · 即梦 — 全球主流 11 大模型。<a href="../../methodology/" target="_blank">12 篇方法论 SOP</a> + <a href="../../skills/" target="_blank">5 个 Claude Skill</a>。<kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">/</kbd> 搜索 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">j</kbd> <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">k</kbd> 导航 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">Enter</kbd> 详情 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">c</kbd> 复制</div>
+    <div class="hero-title">最全的 AI 视频提示词工程库 <span class="accent">· 15 模型 · 301 精选</span></div>
+    <div class="hero-sub">覆盖商业 11 + 开源 4 — Sora · Veo · Kling · Runway · Pika · Hailuo · Hunyuan · Seedance · HappyHorse · Wan · 即梦 + LTX · Mochi · CogVideoX · Higgsfield。<a href="../../methodology/" target="_blank">14 篇方法论 SOP</a> + <a href="../../skills/" target="_blank">7 个 Claude Skill</a>。<kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">/</kbd> 搜索 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">j</kbd> <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">k</kbd> 导航 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">Enter</kbd> 详情 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">c</kbd> 复制</div>
   </div>
   <div class="hero-stats">
     <div class="hero-stat"><div class="hero-stat-num" id="heroPrompts">—</div><div class="hero-stat-label">提示词</div></div>
-    <div class="hero-stat"><div class="hero-stat-num" id="heroModels">11</div><div class="hero-stat-label">模型</div></div>
-    <div class="hero-stat"><div class="hero-stat-num" id="heroSkills">6</div><div class="hero-stat-label">Skill</div></div>
+    <div class="hero-stat"><div class="hero-stat-num" id="heroModels">15</div><div class="hero-stat-label">模型</div></div>
+    <div class="hero-stat"><div class="hero-stat-num" id="heroSkills">7</div><div class="hero-stat-label">Skill</div></div>
     <div class="hero-stat"><div class="hero-stat-num" id="heroDocs">13</div><div class="hero-stat-label">方法论</div></div>
   </div>
 </section>
@@ -1566,5 +1658,7 @@ try {
 loadData();
 </script>
 
+<!-- 全站统一主题切换(localStorage 跨页同步) -->
+<script src="/assets/site-theme.js" defer></script>
 </body>
 </html>

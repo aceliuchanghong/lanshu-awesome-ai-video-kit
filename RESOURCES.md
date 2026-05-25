@@ -65,11 +65,11 @@
 - [ComfyUI Hunyuan Video 教程](https://docs.comfy.org/tutorials/video/hunyuan/hunyuan-video)
 - [Replicate Hunyuan 示例](https://replicate.com/tencent/hunyuan-video/examples)
 
-### Wan 2.5（阿里通义万相）
+### Wan 2.7（阿里通义万相）
 - [Alibaba Cloud · Wan 文生视频 Prompt 指南](https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt) ⭐ 官方
 - [Alibaba Cloud · Model Studio Wan Recipe](https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777)
-- [Wan 2.5 完整指南 | HappyHorse Model](https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide)
-- [Kie.ai · Wan 2.5 API](https://kie.ai/wan-2-5)
+- [Wan 2.7 完整指南 | HappyHorse Model](https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide)
+- [Kie.ai · Wan 2.7 API](https://kie.ai/wan-2-5)
 
 ### 即梦 3.0（字节剪映）
 - [即梦 AI 官网](https://jimeng.jianying.com/) ⭐

@@ -760,10 +760,11 @@
     <span>video-kit</span>
   </div>
   <a class="nav-link" href="#models">15 模型</a>
-  <a class="nav-link" href="#entries">入口</a>
-  <a class="nav-link" href="#quickstart">快速开始</a>
-  <a class="nav-link" href="methodology/">方法论</a>
-  <a class="nav-link" href="RESOURCES.md">资源</a>
+  <a class="nav-link" href="methodology/">📖 方法论</a>
+  <a class="nav-link" href="prompts/">📚 Prompts</a>
+  <a class="nav-link" href="skills/">🛠️ Skills</a>
+  <a class="nav-link" href="tools/prompt-browser/">🌐 Browser</a>
+  <a class="nav-link" href="tools/cross-model/">🔀 Matrix</a>
   <a class="nav-link cta" href="tools/prompt-browser/">浏览提示词 →</a>
   <button class="nav-icon-btn" id="themeToggle" title="切换主题" aria-label="切换主题">
     <svg id="themeIcon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -886,7 +887,7 @@
         </div>
       </a>
 
-      <a class="entry-card" href="RESOURCES.md" style="--icon-from:#facc15;--icon-to:#eab308;--icon-glow:rgba(250,204,21,0.4)">
+      <a class="entry-card" href="viewer.html?file=RESOURCES.md" style="--icon-from:#facc15;--icon-to:#eab308;--icon-glow:rgba(250,204,21,0.4)">
         <div class="entry-icon-wrap">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
         </div>
@@ -898,7 +899,7 @@
         </div>
       </a>
 
-      <a class="entry-card" href="CONTRIBUTING.md" style="--icon-from:#5eead4;--icon-to:#14b8a6;--icon-glow:rgba(94,234,212,0.4)">
+      <a class="entry-card" href="viewer.html?file=CONTRIBUTING.md" style="--icon-from:#5eead4;--icon-to:#14b8a6;--icon-glow:rgba(94,234,212,0.4)">
         <div class="entry-icon-wrap">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87"/><path d="M16 3.13a4 4 0 0 1 0 7.75"/></svg>
         </div>
@@ -943,10 +944,10 @@
       · Made with ❤️ by lanshu · MIT License
     </div>
     <div class="footer-links">
-      <a href="README.md">README</a>
-      <a href="CHANGELOG.md">CHANGELOG</a>
-      <a href="CONTRIBUTING.md">Contributing</a>
-      <a href="RESOURCES.md">Resources</a>
+      <a href="viewer.html?file=README.md">README</a>
+      <a href="viewer.html?file=CHANGELOG.md">CHANGELOG</a>
+      <a href="viewer.html?file=CONTRIBUTING.md">Contributing</a>
+      <a href="viewer.html?file=RESOURCES.md">Resources</a>
       <a href="tools/prompt-browser/">Prompt Browser</a>
       <a href="methodology/">Methodology</a>
       <a href="skills/">Skills</a>
@@ -957,8 +958,8 @@
 <script>
 // ============= Models data =============
 const MODELS = [
-  { id: 'happyhorse-1.0', name: 'HappyHorse 1.0', vendor: '阿里巴巴', dot: '#38bdf8', pitch: '2026/5 Elo 排名第一(1357)。30-55 词紧凑短片 + 8s 时序节拍 + 原生环境音。', tags: ['⭐ SOTA', '紧凑短片', '原生音频'], url: 'https://tryhappyhorseai.com/', browseUrl: 'tools/prompt-browser/#model=happyhorse-1.0' },
-  { id: 'seedance-2.0', name: 'Doubao Seedance 2.0', vendor: '字节 · 火山方舟', dot: '#fb923c', pitch: '2026/2 发布,Elo 第二(1273)。复杂多镜头叙事 + 多主体 + 8 要素公式。即梦底层引擎。', tags: ['复杂叙事', '60s 2K', '多镜头'], url: 'https://www.volcengine.com/product/ark', browseUrl: 'tools/prompt-browser/#model=seedance-2.0' },
+  { id: 'seedance-2.0', name: 'Doubao Seedance 2.0', vendor: '字节 · 火山方舟', dot: '#fb923c', pitch: '综合 SOTA。火山方舟 53 页官方 PDF + 8 要素公式 + 复杂多镜头叙事 + 多主体一致性。即梦底层引擎。', tags: ['⭐ SOTA', '官方 PDF', '60s 2K'], url: 'https://www.volcengine.com/product/ark', browseUrl: 'tools/prompt-browser/#model=seedance-2.0' },
+  { id: 'happyhorse-1.0', name: 'HappyHorse 1.0', vendor: '阿里巴巴', dot: '#38bdf8', pitch: '紧凑短片专精。30-55 词 + 8s 时序节拍 + 原生环境音(with X audible)。', tags: ['紧凑短片', '8s 节拍', '原生音频'], url: 'https://tryhappyhorseai.com/', browseUrl: 'tools/prompt-browser/#model=happyhorse-1.0' },
   { id: 'kling-3.0', name: 'Kling 3.0', vendor: '快手 · 可灵', dot: '#f472b6', pitch: 'S 级。48fps 1080p + 同步音频 lip-sync。Motion Brush 图生视频。中文并列第一。', tags: ['S Tier', '中文最强', '图生视频'], url: 'https://klingai.com/', browseUrl: 'tools/prompt-browser/#model=kling-3.0' },
   { id: 'veo-3', name: 'Veo 3.1', vendor: 'Google DeepMind', dot: '#facc15', pitch: 'S 级。业界原生音频最强 — 多人对话 + 精确音效 + 配乐自动生成。最长 60s。', tags: ['S Tier', '原生音频', '60s'], url: 'https://deepmind.google/models/veo/', browseUrl: 'tools/prompt-browser/#model=veo-3' },
   { id: 'sora-2', name: 'Sora 2 ⚠️', vendor: 'OpenAI', dot: '#34d399', pitch: '电影质感 + Cameos + 极致物理仿真。⚠️ OpenAI 已宣布 web/app 于 2026-04-26 停止,建议迁移到 Veo/Kling/Runway。', tags: ['⚠️ EOL', '电影艺术', 'Shot List'], url: 'https://openai.com/sora/', browseUrl: 'tools/prompt-browser/#model=sora-2' },
@@ -1074,17 +1075,19 @@ function updateThemeIcon(theme) {
   }
 }
 
+// 主题切换 — 与 site-theme.js 共用 storage key 实现跨页同步
+const THEME_KEY = 'lanshu-video-kit-theme';
 document.getElementById('themeToggle').addEventListener('click', () => {
-  const cur = document.documentElement.getAttribute('data-theme');
+  const cur = document.documentElement.getAttribute('data-theme') || 'dark';
   const next = cur === 'light' ? 'dark' : 'light';
   document.documentElement.setAttribute('data-theme', next);
-  try { localStorage.setItem('theme', next); } catch (e) {}
+  try { localStorage.setItem(THEME_KEY, next); } catch (e) {}
   updateThemeIcon(next);
 });
 
 // ============= Init =============
 try {
-  const saved = localStorage.getItem('theme');
+  const saved = localStorage.getItem(THEME_KEY) || localStorage.getItem('theme'); // 兼容旧 key
   if (saved) {
     document.documentElement.setAttribute('data-theme', saved);
     updateThemeIcon(saved);

@@ -84,8 +84,8 @@ Structured into 4 categories of practical resources:
 
 | Model | Vendor | Headline | Length | CJK | Audio | Physics | Edit | China access |
 |---|---|---|---|---|---|---|---|---|
-| **HappyHorse 1.0** ⭐ | Alibaba | **2026/5 Elo #1 (1357)** + 8s tight beats | 8s | ★★★ | ★★ | ★★ | — | ✓ |
-| **Seedance 2.0** | ByteDance / Volcano Ark | Complex multi-shot narrative (Elo #2 1273) | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
+| **Seedance 2.0** ⭐ | ByteDance / Volcano Ark | **Overall SOTA · 53-page official PDF · 8-element formula · powers Jimeng** | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
+| **HappyHorse 1.0** | Alibaba | Tight short-form specialist · 30-55 words · 8s beats · native ambient audio | 8s | ★★★ | ★★ | ★★ | — | ✓ |
 | **Kling 3.0** | Kuaishou | **S-tier** · CJK + I2V + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ | ✓ | ✓ |
 | **Veo 3.1** | Google DeepMind | **S-tier** · best native audio + multi-speaker dialogue | 60s | ★★ | ★★★★★ | ★★★ | — | △ |
 | **Sora 2** ⚠️ | OpenAI | Cinematic + Cameos · **⚠️ web/app sunset 2026-04-26** | 20s | ★★ | ★★★★ | ★★★★★ | — | △ |
@@ -301,7 +301,7 @@ This repo's content draws from these **excellent sources** (in contribution orde
 | 🟢 [Pika Labs · Pika 2.5](https://pikaslabs.com/pika-2.5/) | Pika 2.5 + complete Pikaffects catalog |
 | 🟢 [MiniMax API docs](https://platform.minimax.io/docs/guides/video-generation) | Hailuo 02 official + physics simulation details |
 | 🟢 [Tencent HunyuanVideo GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) | Hunyuan open source repo + official prompt handbook |
-| 🟢 [Alibaba Cloud · Wan Prompt Guide](https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt) | Wan 2.5 official Entity+Scene+Motion+Sound formula |
+| 🟢 [Alibaba Cloud · Wan Prompt Guide](https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt) | Wan 2.7 official Entity+Scene+Motion+Sound formula |
 | 🟢 [Jimeng AI](https://jimeng.jianying.com/) | Jimeng 3.0 official platform |
 | 🟢 [Lightricks LTX-Video](https://github.com/Lightricks/LTX-Video) | LTX 0.9.7 official repo + real-time ComfyUI workflows |
 | 🟢 [Genmo Mochi 1](https://github.com/genmoai/mochi) | Mochi 1 10B AsymmDiT official code + Replicate API |

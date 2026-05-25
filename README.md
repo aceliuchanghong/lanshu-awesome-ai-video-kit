@@ -80,8 +80,8 @@
 
 | 模型 | 厂商 | 看家本领 | 时长 | 中文 | 音频 | 物理 | 编辑 | 国内 |
 |---|---|---|---|---|---|---|---|---|
-| **HappyHorse 1.0** ⭐ | 阿里巴巴 | **2026/5 Elo 第一(1357)** + 紧凑短片 + 8s 节拍 | 8s | ★★★ | ★★ | ★★ | — | ✓ |
-| **Seedance 2.0** | 字节 火山方舟 | 复杂多镜头叙事（Elo 第二 1273） | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
+| **Seedance 2.0** ⭐ | 字节 火山方舟 | **综合 SOTA · 53 页官方 PDF · 8 要素公式 · 即梦底层引擎** | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
+| **HappyHorse 1.0** | 阿里巴巴 | 紧凑短片专精 + 30-55 词 + 8s 时序节拍 + 原生环境音 | 8s | ★★★ | ★★ | ★★ | — | ✓ |
 | **Kling 3.0** | 快手 | **S 级** · 中文 + 图生视频 + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ | ✓ | ✓ |
 | **Veo 3.1** | Google DeepMind | **S 级** · 原生音频最强 + 多人对话 | 60s | ★★ | ★★★★★ | ★★★ | — | △ |
 | **Sora 2** ⚠️ | OpenAI | 电影艺术片 + Cameos · **⚠️ 2026-04-26 已停止 web/app** | 20s | ★★ | ★★★★ | ★★★★★ | — | △ |
@@ -392,7 +392,7 @@ lanshu-awesome-ai-video-kit/
 | 🟢 [Pika Labs · Pika 2.5](https://pikaslabs.com/pika-2.5/) · [Promptomania 模板](https://promptomania.com/models/pika/pika-2-5) | Pika 2.5 + Pikaffects 完整列表 |
 | 🟢 [MiniMax API 文档](https://platform.minimax.io/docs/guides/video-generation) · [Hailuo 02 物理解析](https://getimg.ai/blog/minimax-hailuo-02-the-1080p-ai-video-model-that-gets-physics-right) | Hailuo 02 官方 + 物理仿真细节 |
 | 🟢 [Tencent HunyuanVideo GitHub](https://github.com/Tencent-Hunyuan/HunyuanVideo) · [官方 Prompt Handbook](https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5/blob/main/assets/HunyuanVideo_1_5_Prompt_Handbook_EN.md) | Hunyuan 开源仓库 + 官方提示词手册 |
-| 🟢 [Alibaba Cloud · Wan Prompt Guide](https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt) | Wan 2.5 官方 Entity+Scene+Motion+Sound 公式 |
+| 🟢 [Alibaba Cloud · Wan Prompt Guide](https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt) | Wan 2.7 官方 Entity+Scene+Motion+Sound 公式 |
 | 🟢 [即梦 AI 官网](https://jimeng.jianying.com/) · [火山引擎即梦 API](https://www.volcengine.com/product/jimeng) | 即梦 3.0 官方平台 |
 | 🟢 [Lightricks LTX-Video](https://github.com/Lightricks/LTX-Video) · [HF Model Card](https://huggingface.co/Lightricks/LTX-Video) | LTX 0.9.7 官方仓库 + 实时生成 ComfyUI 工作流 |
 | 🟢 [Genmo Mochi 1](https://github.com/genmoai/mochi) · [Playground](https://www.genmo.ai/) | Mochi 1 10B AsymmDiT 官方代码 + Replicate API |
