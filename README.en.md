@@ -207,7 +207,7 @@ See [skills/README.md](skills/README.md) for the decision tree.
 
 | Tool | Description | Live URL |
 |---|---|---|
-| [Homepage](index.html) | Liquid-Glass landing — Hero stats + 15-model wall + 6 entry cards | `http://localhost:8000/` |
+| [Homepage](index.html) | Liquid-Glass landing — Hero stats + 15-model wall + 6 entry cards | [Live →](https://lanshu-awesome-ai-video-kit.lank.workers.dev) |
 | [Prompt Browser](tools/prompt-browser/index.html) | Single-page browser, 15-model rainbow filter + URL state + keyboard nav + Drawer | `tools/prompt-browser/` |
 | [Cross-Model Matrix](tools/cross-model/index.html) | 10 scenarios × 11 commercial models = 110 cross-model prompts + video slots | `tools/cross-model/` |
 

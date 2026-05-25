@@ -12,7 +12,7 @@
 
 411 实测 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论 · GitHub Action 每周自动监控官方端点
 
-[🇨🇳 中文](README.md) · [🇬🇧 English](README.en.md) · [🌐 Live Demo](http://localhost:8000/) · [⚡ awesome 投稿](awesome.md)
+[🇨🇳 中文](README.md) · [🇬🇧 English](README.en.md) · [🌐 **Live Demo**](https://lanshu-awesome-ai-video-kit.lank.workers.dev) · [⚡ awesome 投稿](awesome.md)
 
 ---
 
@@ -33,11 +33,12 @@
 [![Categories](https://img.shields.io/badge/Categories-29-f472b6?style=flat-square)](prompts/data/all-prompts.json)
 [![Endpoints Monitored](https://img.shields.io/badge/Auto_Monitor-32_endpoints-06b6d4?style=flat-square&logo=githubactions&logoColor=white)](.github/workflows/model-version-monitor.yml)
 
-<!-- Tech stack badges -->
+<!-- Tech stack + deployment badges -->
 [![Zero Deps](https://img.shields.io/badge/Dependencies-Zero-success?style=flat-square)](#)
 [![Single File HTML](https://img.shields.io/badge/Web-Single_File_HTML-orange?style=flat-square&logo=html5&logoColor=white)](tools/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white)](scripts/)
-[![GitHub Pages Ready](https://img.shields.io/badge/GitHub_Pages-Ready-181717?style=flat-square&logo=github)](#)
+[![Deployed on Cloudflare](https://img.shields.io/badge/Deployed_on-Cloudflare-f38020?style=flat-square&logo=cloudflare&logoColor=white)](https://lanshu-awesome-ai-video-kit.lank.workers.dev)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-online-22c55e?style=flat-square&logo=googlechrome&logoColor=white)](https://lanshu-awesome-ai-video-kit.lank.workers.dev)
 
 </div>
 
