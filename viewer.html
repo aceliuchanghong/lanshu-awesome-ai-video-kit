@@ -112,20 +112,25 @@
     background: var(--accent-soft); color: var(--fg);
     border: 1px solid var(--glass-border);
   }
+  /* 代码块固定 github-dark 配色,与 hljs 主题对齐,不受 article 主题继承影响 */
   article pre {
     margin: 1.2em 0;
-    background: rgba(0,0,0,0.5) !important;
+    background: #0d1117 !important;          /* github-dark 同款深色 */
+    color: #c9d1d9 !important;               /* github-dark 同款浅色字 */
     border: 1px solid var(--line);
     border-radius: 12px; padding: 18px 22px;
     overflow-x: auto;
     font-family: 'JetBrains Mono', ui-monospace, monospace;
     font-size: 13.5px; line-height: 1.7;
   }
-  [data-theme="light"] article pre { background: rgba(15,12,25,0.92) !important; }
   article pre code {
     padding: 0 !important; background: transparent !important;
-    border: none !important; color: inherit !important; font-size: inherit;
+    border: none !important;
+    color: #c9d1d9 !important;               /* 强制浅色,覆盖 article 继承 */
+    font-size: inherit;
   }
+  /* hljs 高亮时,各 token 颜色由 hljs/github-dark.css 接管(优先级更高的具体 class)*/
+  article pre code.hljs { color: #c9d1d9 !important; background: transparent !important; }
   article table {
     width: 100%; margin: 1.4em 0; border-collapse: collapse;
     font-size: 14px; background: var(--card);
