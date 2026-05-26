@@ -10,7 +10,7 @@
 
 **做企业 AI 视频项目逼出来的开源工具包**
 
-411 实测 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论 · GitHub Action 每周自动监控官方端点
+390 实测 prompt · 15 模型 · 7 Claude Skill · 14 篇方法论 · GitHub Action 每周自动监控官方端点
 
 [🇨🇳 中文](README.md) · [🇬🇧 English](README.en.md) · [🌐 **Live Demo**](https://lanshu-awesome-ai-video-kit.lank.workers.dev) · [⚡ awesome 投稿](awesome.md)
 
@@ -27,7 +27,7 @@
 
 <!-- Content stats badges -->
 [![Models](https://img.shields.io/badge/Models-15-8b5cf6?style=flat-square&logo=googlegemini&logoColor=white)](#-15-模型一览)
-[![Prompts](https://img.shields.io/badge/Prompts-411-fb923c?style=flat-square)](prompts/)
+[![Prompts](https://img.shields.io/badge/Prompts-390-fb923c?style=flat-square)](prompts/)
 [![Skills](https://img.shields.io/badge/Claude_Skills-7-d97757?style=flat-square&logo=anthropic&logoColor=white)](skills/)
 [![Methodology](https://img.shields.io/badge/SOP-14-34d399?style=flat-square)](methodology/)
 [![Categories](https://img.shields.io/badge/Categories-29-f472b6?style=flat-square)](prompts/data/all-prompts.json)
@@ -68,7 +68,7 @@
 ## 🎯 数据规模(v0.9.0 · 2026-05)
 
 ```
-411 条 prompt   (301 单模型最佳实践 + 110 跨模型对照矩阵)
+390 条 prompt   (280 单模型最佳实践 + 110 跨模型对照矩阵)
  15 个 模型      (11 商业旗舰 + 4 开源 / 友好开源)
   7 个 Claude Skill  (含 model-selector + prompt-translator 跨模型核心)
  14 篇 方法论 SOP    (基础公式 → 各家公式 → 决策树)
@@ -190,7 +190,7 @@ done
 
 | 工具 | 路径 | 卖点 |
 |---|---|---|
-| **Prompt Browser** | [`tools/prompt-browser/`](tools/prompt-browser/) | 411 prompt 浏览器 · 15 模型彩虹筛选 · URL 状态分享 · 键盘导航(`/`/`j`/`k`/`Enter`/`c`)|
+| **Prompt Browser** | [`tools/prompt-browser/`](tools/prompt-browser/) | 390 prompt 浏览器 · 15 模型彩虹筛选 · URL 状态分享 · 键盘导航(`/`/`j`/`k`/`Enter`/`c`)|
 | **Cross-Model Matrix** ★ | [`tools/cross-model/`](tools/cross-model/) | 10 场景 × 11 模型 = 110 横向对照 · `prompt-translator` 的查表基准 |
 | **Markdown Viewer** | [`viewer.html`](viewer.html) | 所有 .md 文件渲染成漂亮 web 文档 · 自动 TOC + 代码高亮 |
 
@@ -251,7 +251,7 @@ lanshu-awesome-ai-video-kit/
 │   └── ISSUE_TEMPLATE/             # 4 个贡献表单
 │
 ├── tools/
-│   ├── prompt-browser/             # 411 prompt 浏览器
+│   ├── prompt-browser/             # 390 prompt 浏览器
 │   └── cross-model/                # 跨模型对照矩阵
 │
 ├── viewer.html                     # Markdown viewer
