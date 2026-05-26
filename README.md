@@ -2,8 +2,8 @@
 
 <!-- Hero Banner -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=lanshu-awesome-ai-video-kit&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Prompt%20Engineering%20Kit%20·%2015%20Models%20·%20411%20Prompts&descSize=15&descAlignY=62&descColor=cccccc">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=lanshu-awesome-ai-video-kit&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Prompt%20Engineering%20Kit%20·%2015%20Models%20·%20411%20Prompts&descSize=15&descAlignY=62&descColor=ffffff" alt="banner" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=lanshu-awesome-ai-video-kit&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Prompt%20Engineering%20Kit%20·%2015%20Models%20·%20390%20Prompts&descSize=15&descAlignY=62&descColor=cccccc">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,2,30&height=200&section=header&text=lanshu-awesome-ai-video-kit&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=AI%20Video%20Prompt%20Engineering%20Kit%20·%2015%20Models%20·%20390%20Prompts&descSize=15&descAlignY=62&descColor=ffffff" alt="banner" width="100%">
 </picture>
 
 # 🎬 lanshu-awesome-ai-video-kit
@@ -226,7 +226,7 @@ lanshu-awesome-ai-video-kit/
 ├── serve.py                        # 本地 dev server(UTF-8 + .md redirect)
 │
 ├── prompts/
-│   ├── data/all-prompts.json       # 单一数据源(411 条)
+│   ├── data/all-prompts.json       # 单一数据源(390 条)
 │   ├── data/cross-model-matrix.json # 110 条跨模型对照
 │   └── {seedance,happyhorse,kling,sora,veo}/README.md
 │
