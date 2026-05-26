@@ -1,7 +1,7 @@
 {
-  "schema_version": "1.5",
+  "schema_version": "1.6",
   "updated": "2026-05-25",
-  "total": 301,
+  "total": 280,
   "models": {
     "seedance-2.0": {
       "name": "Doubao Seedance 2.0",
@@ -387,7 +387,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       },
       "notes": "替换 [product] 适用于耳机/香水/运动鞋等任意产品"
     },
@@ -411,7 +412,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -434,7 +436,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -456,7 +459,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -479,7 +483,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -501,7 +506,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -523,7 +529,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -546,7 +553,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -569,7 +577,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -591,7 +600,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -612,7 +622,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -634,7 +645,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -657,7 +669,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -679,7 +692,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -701,7 +715,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -724,7 +739,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -746,7 +762,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -768,7 +785,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -791,7 +809,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -813,7 +832,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -835,7 +855,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -857,7 +878,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -879,7 +901,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -901,7 +924,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -923,7 +947,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       },
       "notes": "需要 2 张人物图 + 1 段绿幕动作参考视频"
     },
@@ -946,7 +971,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -968,7 +994,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -990,7 +1017,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1012,7 +1040,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1034,7 +1063,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1056,7 +1086,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1078,7 +1109,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1100,7 +1132,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1122,7 +1155,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1144,7 +1178,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1166,7 +1201,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1189,7 +1225,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1211,7 +1248,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1233,7 +1271,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1255,7 +1294,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1277,7 +1317,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1299,7 +1340,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1321,7 +1363,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1344,7 +1387,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1367,7 +1411,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1389,7 +1434,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1411,7 +1457,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1433,7 +1480,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1455,7 +1503,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1477,7 +1526,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1499,7 +1549,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1521,7 +1572,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1543,7 +1595,8 @@
       },
       "source": {
         "name": "Atlas Cloud",
-        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide"
+        "url": "https://www.atlascloud.ai/blog/guides/best-seedance-2-0-prompts-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1565,7 +1618,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1587,7 +1641,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1609,7 +1664,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1631,7 +1687,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1653,7 +1710,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1675,7 +1733,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1697,7 +1756,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1719,7 +1779,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1741,7 +1802,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1763,7 +1825,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1785,7 +1848,8 @@
       },
       "source": {
         "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide"
+        "url": "https://www.imagine.art/blogs/seedance-2-0-prompt-guide",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1807,7 +1871,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1829,7 +1894,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1851,7 +1917,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1872,7 +1939,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1893,7 +1961,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1914,7 +1983,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1935,7 +2005,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-happyhorse-1-0-prompts/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -1957,7 +2028,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -1978,7 +2050,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -1999,7 +2072,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2020,7 +2094,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2041,7 +2116,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2062,7 +2138,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2083,7 +2160,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2104,7 +2182,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2125,7 +2204,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2146,7 +2226,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2167,7 +2248,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2188,7 +2270,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2209,7 +2292,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2230,7 +2314,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2251,7 +2336,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2272,7 +2358,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2293,7 +2380,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2314,7 +2402,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2335,7 +2424,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2356,7 +2446,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2377,7 +2468,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2398,7 +2490,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2419,7 +2512,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2440,7 +2534,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2461,7 +2556,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2482,7 +2578,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2503,7 +2600,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2524,7 +2622,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2545,7 +2644,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2566,7 +2666,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2587,7 +2688,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2608,7 +2710,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2629,7 +2732,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2650,7 +2754,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2671,7 +2776,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2692,7 +2798,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2713,7 +2820,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2734,7 +2842,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2755,7 +2864,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2776,7 +2886,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2797,7 +2908,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2818,7 +2930,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2839,7 +2952,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2860,7 +2974,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2881,7 +2996,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2902,7 +3018,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2923,7 +3040,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2944,7 +3062,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2965,7 +3084,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -2986,7 +3106,8 @@
       },
       "source": {
         "name": "Try Happy Horse AI",
-        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts"
+        "url": "https://tryhappyhorseai.com/blog/happy-horse-ai-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3008,7 +3129,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       },
       "notes": "示范 Kling 5 层公式：Scene → Characters → Action → Camera → Audio & Style"
     },
@@ -3031,7 +3153,8 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "图生视频典范：只描述运动，不重描述图中已有的车型/环境。湿地面提供丰富运动数据。"
     },
@@ -3054,7 +3177,8 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "极简舞台 + 单一戏剧光，奢侈品广告通用结构"
     },
@@ -3076,7 +3200,8 @@
       },
       "source": {
         "name": "VEED",
-        "url": "https://www.veed.io/learn/kling-ai-prompting-guide"
+        "url": "https://www.veed.io/learn/kling-ai-prompting-guide",
+        "tier": "unverified-3rd-party"
       },
       "notes": "图生视频「只写运动」最纯净示范"
     },
@@ -3099,71 +3224,10 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "明火创造动态光照，明确指定工具（wok/spatula）增强物理真实感"
-    },
-    {
-      "id": "kl-006",
-      "model": "kling-3.0",
-      "category": "cinematic",
-      "title": "赛博朋克侦探（雨中跟拍）",
-      "prompt": "A cyberpunk detective walking through a neon-lit alley, camera tracking behind him, rain falling, reflections on wet ground, cinematic lighting, noir atmosphere.",
-      "tags": [
-        "noir",
-        "cyberpunk",
-        "rain",
-        "tracking"
-      ],
-      "params": {
-        "aspect": "21:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-007",
-      "model": "kling-3.0",
-      "category": "cinematic",
-      "title": "末日废墟探索",
-      "prompt": "A post-apocalyptic survivor exploring abandoned city ruins, wide angle shot, dusty air, cinematic color grading.",
-      "tags": [
-        "post-apocalyptic",
-        "wide",
-        "atmospheric"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-008",
-      "model": "kling-3.0",
-      "category": "cinematic",
-      "title": "太空探索者落地（戏剧揭幕）",
-      "prompt": "A space explorer stepping onto an unknown planet, dramatic reveal shot, volumetric lighting, epic sci-fi tone.",
-      "tags": [
-        "sci-fi",
-        "reveal",
-        "volumetric-light",
-        "epic"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
     },
     {
       "id": "kl-009",
@@ -3184,7 +3248,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -3206,7 +3271,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -3227,7 +3293,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -3248,7 +3315,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -3269,89 +3337,10 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Kling 优先处理人物动作而非环境事件 — 雷电只作为氛围触发"
-    },
-    {
-      "id": "kl-014",
-      "model": "kling-3.0",
-      "category": "action",
-      "title": "剑士对决慢镜",
-      "prompt": "Two warriors clashing swords in slow motion, sparks flying, dynamic camera rotation, high contrast lighting.",
-      "tags": [
-        "sword",
-        "slow-motion",
-        "rotation"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-015",
-      "model": "kling-3.0",
-      "category": "action",
-      "title": "动漫街头格斗",
-      "prompt": "Anime-style street fight, handheld camera feel, fast motion blur, intense expressions.",
-      "tags": [
-        "anime",
-        "handheld",
-        "motion-blur"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-016",
-      "model": "kling-3.0",
-      "category": "action",
-      "title": "超级英雄落地冲击",
-      "prompt": "A superhero landing impact shot, ground cracking, cinematic zoom, dramatic lighting.",
-      "tags": [
-        "superhero",
-        "impact",
-        "cinematic"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-017",
-      "model": "kling-3.0",
-      "category": "action",
-      "title": "雨中武术",
-      "prompt": "Martial arts fight in a rainy alley, water splashes, slow-motion kicks, ultra-detailed.",
-      "tags": [
-        "martial-arts",
-        "rain",
-        "slow-motion"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
     },
     {
       "id": "kl-018",
@@ -3371,7 +3360,8 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "明确指定工具（katana/bamboo）+ 因果链（slash→bamboo topples）= 强物理感"
     },
@@ -3394,7 +3384,8 @@
       },
       "source": {
         "name": "Atlabs AI",
-        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation"
+        "url": "https://www.atlabs.ai/blog/kling-3-0-prompting-guide-master-ai-video-generation",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -3415,290 +3406,10 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "用显式速度动词（powers/accelerates hard）覆盖 Kling 默认的慢动作倾向"
-    },
-    {
-      "id": "kl-021",
-      "model": "kling-3.0",
-      "category": "viral-transform",
-      "title": "真人变动漫角色（短视频爆款）",
-      "prompt": "A girl transforming into an anime character, smooth transition, glowing effects, TikTok style.",
-      "tags": [
-        "transformation",
-        "anime",
-        "tiktok"
-      ],
-      "params": {
-        "aspect": "9:16",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-022",
-      "model": "kling-3.0",
-      "category": "viral-transform",
-      "title": "前后对比变身（分屏）",
-      "prompt": "Before vs after anime transformation, split screen, high contrast visuals.",
-      "tags": [
-        "before-after",
-        "split-screen",
-        "anime"
-      ],
-      "params": {
-        "aspect": "9:16",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-023",
-      "model": "kling-3.0",
-      "category": "viral-transform",
-      "title": "赛博朋克化身（毛刺效果）",
-      "prompt": "A realistic human turning into cyberpunk avatar, glitch effects, neon lighting.",
-      "tags": [
-        "cyberpunk",
-        "transformation",
-        "glitch",
-        "neon"
-      ],
-      "params": {
-        "aspect": "9:16",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-024",
-      "model": "kling-3.0",
-      "category": "viral-transform",
-      "title": "未来城 POV 醒来",
-      "prompt": "POV: waking up in a futuristic city, first-person camera, immersive motion.",
-      "tags": [
-        "pov",
-        "futuristic",
-        "immersive"
-      ],
-      "params": {
-        "aspect": "9:16",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-025",
-      "model": "kling-3.0",
-      "category": "music-video",
-      "title": "霓虹舞台演唱",
-      "prompt": "A singer performing on a neon stage, dynamic lighting, cinematic camera movement.",
-      "tags": [
-        "music",
-        "stage",
-        "neon"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-026",
-      "model": "kling-3.0",
-      "category": "music-video",
-      "title": "超现实梦境序列",
-      "prompt": "Abstract dream sequence with floating objects, slow motion, surreal visuals.",
-      "tags": [
-        "surreal",
-        "dreamlike",
-        "slow-motion"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-027",
-      "model": "kling-3.0",
-      "category": "music-video",
-      "title": "舞者穿越多场景",
-      "prompt": "A dancer moving through shifting environments, seamless transitions.",
-      "tags": [
-        "dance",
-        "transition",
-        "music-video"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-028",
-      "model": "kling-3.0",
-      "category": "experimental",
-      "title": "时间冻结的街道",
-      "prompt": "Time freezing in a busy city street, camera moving through frozen people.",
-      "tags": [
-        "time-freeze",
-        "surreal",
-        "camera-move"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-029",
-      "model": "kling-3.0",
-      "category": "experimental",
-      "title": "跨世界行走",
-      "prompt": "A character walking through different worlds with each step.",
-      "tags": [
-        "multi-world",
-        "surreal",
-        "transformation"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-030",
-      "model": "kling-3.0",
-      "category": "experimental",
-      "title": "现实故障破碎",
-      "prompt": "Reality glitching and breaking apart, surreal distortion.",
-      "tags": [
-        "glitch",
-        "distortion",
-        "surreal"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-031",
-      "model": "kling-3.0",
-      "category": "experimental",
-      "title": "镜中世界",
-      "prompt": "A mirror world reflecting an alternate version of the character.",
-      "tags": [
-        "mirror",
-        "alternate",
-        "surreal"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-032",
-      "model": "kling-3.0",
-      "category": "gaming-ip",
-      "title": "RPG 地牢入口",
-      "prompt": "A fantasy RPG hero entering a dungeon, torch lighting, cinematic angle.",
-      "tags": [
-        "rpg",
-        "fantasy",
-        "torch"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-033",
-      "model": "kling-3.0",
-      "category": "gaming-ip",
-      "title": "数字黑客世界",
-      "prompt": "Cyberpunk hacker inside a digital world, floating code, neon grids.",
-      "tags": [
-        "hacker",
-        "cyberpunk",
-        "neon"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
-    },
-    {
-      "id": "kl-034",
-      "model": "kling-3.0",
-      "category": "gaming-ip",
-      "title": "动漫 Boss 战开场",
-      "prompt": "Anime-style boss battle intro, dramatic zoom, energy effects.",
-      "tags": [
-        "boss-battle",
-        "anime",
-        "vfx"
-      ],
-      "params": {
-        "aspect": "16:9",
-        "duration": "5s"
-      },
-      "source": {
-        "name": "Elser AI",
-        "url": "https://www.elser.ai/blog/kling-ai-prompts-guide-25-cinematic-prompts-that-actually-work-in-2026"
-      }
     },
     {
       "id": "kl-035",
@@ -3718,7 +3429,8 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Kling 自带的电影感慢镜会自动渲染戏剧瞬间"
     },
@@ -3740,7 +3452,8 @@
       },
       "source": {
         "name": "vicsee.com",
-        "url": "https://vicsee.com/blog/kling-3-prompts"
+        "url": "https://vicsee.com/blog/kling-3-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "幻想场景用真实物理交互锚定（stone crumbles / torches flicker）= 可信度大增"
     },
@@ -3763,7 +3476,8 @@
       },
       "source": {
         "name": "OpenAI Cookbook",
-        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide"
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "tier": "official"
       },
       "notes": "Sora 2 官方推荐分层结构：Style → Scene → Cinematography → Actions（按 beats）→ Sound"
     },
@@ -3786,7 +3500,8 @@
       },
       "source": {
         "name": "OpenAI Cookbook",
-        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide"
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "tier": "official"
       },
       "notes": "黄金时段+对白+实景拍片质感的官方样板，Style 段锁定胶片美学"
     },
@@ -3808,7 +3523,8 @@
       },
       "source": {
         "name": "OpenAI Cookbook",
-        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide"
+        "url": "https://developers.openai.com/cookbook/examples/sora/sora2_prompting_guide",
+        "tier": "official"
       },
       "notes": "Sora 2 的「制作蓝皮书」级提示词模板：Format → Lenses → Grade → Lighting → Location → Wardrobe → Sound"
     },
@@ -3829,7 +3545,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3850,7 +3567,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3871,7 +3589,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3892,7 +3611,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3912,7 +3632,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3932,7 +3653,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3954,7 +3676,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Sora 2 原生音画 + 对白的紧凑示范，含 ambience 标记"
     },
@@ -3975,7 +3698,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -3996,7 +3720,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4017,7 +3742,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4037,7 +3763,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4057,7 +3784,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4077,7 +3805,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4097,7 +3826,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4118,7 +3848,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4138,7 +3869,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4158,7 +3890,8 @@
       },
       "source": {
         "name": "CyberLink",
-        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts"
+        "url": "https://www.cyberlink.com/blog/ai-prompts/5169/best-sora-2-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4179,7 +3912,8 @@
       },
       "source": {
         "name": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/prompt-guide/"
+        "url": "https://deepmind.google/models/veo/prompt-guide/",
+        "tier": "official"
       },
       "notes": "Veo 3 的「角色+对白+多层环境音」官方公式：人物外观→动作→Dialogue:→Audio:"
     },
@@ -4201,7 +3935,8 @@
       },
       "source": {
         "name": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/prompt-guide/"
+        "url": "https://deepmind.google/models/veo/prompt-guide/",
+        "tier": "official"
       }
     },
     {
@@ -4223,7 +3958,8 @@
       },
       "source": {
         "name": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/prompt-guide/"
+        "url": "https://deepmind.google/models/veo/prompt-guide/",
+        "tier": "official"
       }
     },
     {
@@ -4244,7 +3980,8 @@
       },
       "source": {
         "name": "Google DeepMind",
-        "url": "https://deepmind.google/models/veo/prompt-guide/"
+        "url": "https://deepmind.google/models/veo/prompt-guide/",
+        "tier": "official"
       }
     },
     {
@@ -4265,7 +4002,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Veo 3 原生对白最经典 8 秒样板，含环境音+BGM"
     },
@@ -4286,7 +4024,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4306,7 +4045,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4326,7 +4066,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4347,7 +4088,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4367,7 +4109,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4387,7 +4130,8 @@
       },
       "source": {
         "name": "GeekVibes",
-        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/"
+        "url": "https://geekvibesnation.com/google-veo-3-prompts-100-tested-examples-that-actually-work-2026/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4408,7 +4152,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4428,7 +4173,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4448,7 +4194,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4469,7 +4216,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4490,7 +4238,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4510,7 +4259,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4531,7 +4281,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4551,7 +4302,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4572,7 +4324,8 @@
       },
       "source": {
         "name": "UlazAI",
-        "url": "https://ulazai.com/veo3-prompt-examples/"
+        "url": "https://ulazai.com/veo3-prompt-examples/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4593,7 +4346,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       },
       "notes": "Gen-4 官方推荐结构：subject + action + setting + camera + motion + style"
     },
@@ -4615,7 +4369,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide",
+        "tier": "official"
       },
       "notes": "Aleph 编辑思维：说什么要改 + 什么要稳定 + 转换的程度"
     },
@@ -4637,7 +4392,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4658,7 +4414,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4678,7 +4435,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4699,7 +4457,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4720,7 +4479,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4740,7 +4500,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4761,7 +4522,8 @@
       },
       "source": {
         "name": "filmart.ai",
-        "url": "https://filmart.ai/runway-gen-4-prompts/"
+        "url": "https://filmart.ai/runway-gen-4-prompts/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4782,7 +4544,8 @@
       },
       "source": {
         "name": "queststudio",
-        "url": "https://queststudio.io/blog/runway-prompts"
+        "url": "https://queststudio.io/blog/runway-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4803,7 +4566,8 @@
       },
       "source": {
         "name": "queststudio",
-        "url": "https://queststudio.io/blog/runway-prompts"
+        "url": "https://queststudio.io/blog/runway-prompts",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4823,7 +4587,8 @@
       },
       "source": {
         "name": "Runway",
-        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide"
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -4844,7 +4609,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Pikaffects: Melt 预设特效，最受欢迎的爆款效果"
     },
@@ -4866,7 +4632,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4887,7 +4654,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4907,7 +4675,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4928,7 +4697,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4949,7 +4719,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -4970,7 +4741,8 @@
       },
       "source": {
         "name": "Promptomania",
-        "url": "https://promptomania.com/models/pika/pika-2-5"
+        "url": "https://promptomania.com/models/pika/pika-2-5",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Pika 官方推荐的电影感模板结构"
     },
@@ -4992,7 +4764,8 @@
       },
       "source": {
         "name": "Promptomania",
-        "url": "https://promptomania.com/models/pika/pika-2-5"
+        "url": "https://promptomania.com/models/pika/pika-2-5",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5013,7 +4786,8 @@
       },
       "source": {
         "name": "Promptomania",
-        "url": "https://promptomania.com/models/pika/pika-2-5"
+        "url": "https://promptomania.com/models/pika/pika-2-5",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5034,7 +4808,8 @@
       },
       "source": {
         "name": "pikalabsai",
-        "url": "https://pikalabsai.org/pika-labs-prompting-guide/"
+        "url": "https://pikalabsai.org/pika-labs-prompting-guide/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5055,7 +4830,8 @@
       },
       "source": {
         "name": "pikartai",
-        "url": "https://pikartai.com/prompt/"
+        "url": "https://pikartai.com/prompt/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5076,7 +4852,8 @@
       },
       "source": {
         "name": "Pika Labs",
-        "url": "https://pikaslabs.com/pika-2.5/"
+        "url": "https://pikaslabs.com/pika-2.5/",
+        "tier": "unverified-3rd-party"
       },
       "notes": "Pikaframes 关键帧延长：定义首尾帧，模型生成过渡"
     },
@@ -5099,7 +4876,8 @@
       },
       "source": {
         "name": "MiniMax",
-        "url": "https://platform.minimax.io/docs/guides/video-generation"
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       },
       "notes": "Hailuo 02 物理仿真业界第一，水/火/烟/布料尤其准确"
     },
@@ -5122,7 +4900,8 @@
       },
       "source": {
         "name": "Cliprise",
-        "url": "https://www.cliprise.app/learn/guides/model-guides/hailuo-02-complete-guide"
+        "url": "https://www.cliprise.app/learn/guides/model-guides/hailuo-02-complete-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5144,7 +4923,8 @@
       },
       "source": {
         "name": "MiniMax",
-        "url": "https://platform.minimax.io/docs/guides/video-generation"
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       }
     },
     {
@@ -5166,7 +4946,8 @@
       },
       "source": {
         "name": "getimg",
-        "url": "https://getimg.ai/blog/minimax-hailuo-02-the-1080p-ai-video-model-that-gets-physics-right"
+        "url": "https://getimg.ai/blog/minimax-hailuo-02-the-1080p-ai-video-model-that-gets-physics-right",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5188,7 +4969,8 @@
       },
       "source": {
         "name": "Hailuo",
-        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/"
+        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5210,7 +4992,8 @@
       },
       "source": {
         "name": "Hailuo",
-        "url": "https://akool.com/blog-posts/minimax-hailuo-video-prompt-guide"
+        "url": "https://akool.com/blog-posts/minimax-hailuo-video-prompt-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5232,7 +5015,8 @@
       },
       "source": {
         "name": "fluxproweb",
-        "url": "https://fluxproweb.com/blog/detail/Create-Videos-with-MiniMax-Hailuo-AI-A-Practical-Guide-to-Hailuo-02-2-3-f22b19c7c4dd/"
+        "url": "https://fluxproweb.com/blog/detail/Create-Videos-with-MiniMax-Hailuo-AI-A-Practical-Guide-to-Hailuo-02-2-3-f22b19c7c4dd/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5254,7 +5038,8 @@
       },
       "source": {
         "name": "Hailuo",
-        "url": "https://platform.minimax.io/docs/guides/video-generation"
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       }
     },
     {
@@ -5276,7 +5061,8 @@
       },
       "source": {
         "name": "Freepik",
-        "url": "https://www.freepik.com/blog/minimax-hailuo-02/"
+        "url": "https://www.freepik.com/blog/minimax-hailuo-02/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5298,7 +5084,8 @@
       },
       "source": {
         "name": "Hailuo",
-        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/"
+        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5320,7 +5107,8 @@
       },
       "source": {
         "name": "qwe.edu.pl",
-        "url": "https://www.qwe.edu.pl/tutorial/how-to-use-minimax-ai-hailuo-video-generation/"
+        "url": "https://www.qwe.edu.pl/tutorial/how-to-use-minimax-ai-hailuo-video-generation/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5342,7 +5130,8 @@
       },
       "source": {
         "name": "Hailuo",
-        "url": "https://getimg.ai/blog/minimax-hailuo-02-the-1080p-ai-video-model-that-gets-physics-right"
+        "url": "https://getimg.ai/blog/minimax-hailuo-02-the-1080p-ai-video-model-that-gets-physics-right",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5362,7 +5151,8 @@
       },
       "source": {
         "name": "Tencent Hunyuan",
-        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo"
+        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+        "tier": "official-platform"
       },
       "notes": "Hunyuan 独有的「跨维度生成」能力：虚拟角色自然融入真实场景"
     },
@@ -5384,7 +5174,8 @@
       },
       "source": {
         "name": "Hunyuan",
-        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5/blob/main/assets/HunyuanVideo_1_5_Prompt_Handbook_EN.md"
+        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo-1.5/blob/main/assets/HunyuanVideo_1_5_Prompt_Handbook_EN.md",
+        "tier": "official-platform"
       },
       "notes": "适合 Master 模式的复杂场景描述，开源本地部署测试用"
     },
@@ -5406,7 +5197,8 @@
       },
       "source": {
         "name": "ComfyUI Hunyuan",
-        "url": "https://docs.comfy.org/tutorials/video/hunyuan/hunyuan-video"
+        "url": "https://docs.comfy.org/tutorials/video/hunyuan/hunyuan-video",
+        "tier": "official"
       },
       "notes": "图生视频只描述运动，不重描述图中的视觉内容（Hunyuan 重视首帧）"
     },
@@ -5428,7 +5220,8 @@
       },
       "source": {
         "name": "Hunyuan",
-        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo"
+        "url": "https://github.com/Tencent-Hunyuan/HunyuanVideo",
+        "tier": "official-platform"
       },
       "notes": "Normal 模式适合简单场景，先用基础提示测试模型"
     },
@@ -5450,7 +5243,8 @@
       },
       "source": {
         "name": "ReelMind",
-        "url": "https://reelmind.ai/blog/tencent-hunyuan-open-source-ai-video-with-custom-prompting"
+        "url": "https://reelmind.ai/blog/tencent-hunyuan-open-source-ai-video-with-custom-prompting",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5471,7 +5265,8 @@
       },
       "source": {
         "name": "Hunyuan",
-        "url": "https://huggingface.co/tencent/HunyuanVideo-1.5"
+        "url": "https://huggingface.co/tencent/HunyuanVideo-1.5",
+        "tier": "official-platform"
       }
     },
     {
@@ -5492,7 +5287,8 @@
       },
       "source": {
         "name": "Hunyuan",
-        "url": "https://localaimaster.com/blog/hunyuan-video-guide"
+        "url": "https://localaimaster.com/blog/hunyuan-video-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5513,7 +5309,8 @@
       },
       "source": {
         "name": "Replicate Hunyuan",
-        "url": "https://replicate.com/tencent/hunyuan-video/examples"
+        "url": "https://replicate.com/tencent/hunyuan-video/examples",
+        "tier": "official-platform"
       }
     },
     {
@@ -5534,7 +5331,8 @@
       },
       "source": {
         "name": "Replicate",
-        "url": "https://replicate.com/tencent/hunyuan-video/examples"
+        "url": "https://replicate.com/tencent/hunyuan-video/examples",
+        "tier": "official-platform"
       }
     },
     {
@@ -5555,7 +5353,8 @@
       },
       "source": {
         "name": "fal.ai",
-        "url": "https://fal.ai/models/fal-ai/hunyuan-video"
+        "url": "https://fal.ai/models/fal-ai/hunyuan-video",
+        "tier": "official-platform"
       }
     },
     {
@@ -5576,7 +5375,8 @@
       },
       "source": {
         "name": "CrePal",
-        "url": "https://crepal.ai/blog/aivideo/aivideo-hunyuan-image-to-video-tutorial/"
+        "url": "https://crepal.ai/blog/aivideo/aivideo-hunyuan-image-to-video-tutorial/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5597,7 +5397,8 @@
       },
       "source": {
         "name": "Local AI Master",
-        "url": "https://localaimaster.com/blog/hunyuan-video-guide"
+        "url": "https://localaimaster.com/blog/hunyuan-video-guide",
+        "tier": "unverified-3rd-party"
       },
       "notes": "适合自训 LoRA 测试的混合风格 prompt"
     },
@@ -5619,7 +5420,8 @@
       },
       "source": {
         "name": "Alibaba Cloud",
-        "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt"
+        "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt",
+        "tier": "official"
       },
       "notes": "Wan 2.7 看家本领：数字人 lip-sync，业界对口型最准"
     },
@@ -5641,7 +5443,8 @@
       },
       "source": {
         "name": "Alibaba Cloud",
-        "url": "https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777"
+        "url": "https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777",
+        "tier": "official"
       }
     },
     {
@@ -5662,7 +5465,8 @@
       },
       "source": {
         "name": "Kie.ai Wan",
-        "url": "https://kie.ai/wan-2-5"
+        "url": "https://kie.ai/wan-2-5",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5683,7 +5487,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://kie.ai/wan-2-5"
+        "url": "https://kie.ai/wan-2-5",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5704,7 +5509,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide"
+        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5725,7 +5531,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://www.alibabacloud.com/help/en/model-studio/use-video-generation"
+        "url": "https://www.alibabacloud.com/help/en/model-studio/use-video-generation",
+        "tier": "official"
       }
     },
     {
@@ -5746,7 +5553,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://www.promptus.ai/blog/wan-2-5-prompt-guide"
+        "url": "https://www.promptus.ai/blog/wan-2-5-prompt-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5767,7 +5575,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide"
+        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5788,7 +5597,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://kie.ai/wan-2-5"
+        "url": "https://kie.ai/wan-2-5",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5809,7 +5619,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://blog.segmind.com/wan-i2v-prompts-tips-guide/"
+        "url": "https://blog.segmind.com/wan-i2v-prompts-tips-guide/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -5830,7 +5641,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://www.ambienceai.com/tutorials/wan-prompting-guide"
+        "url": "https://www.ambienceai.com/tutorials/wan-prompting-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -5851,7 +5663,8 @@
       },
       "source": {
         "name": "Wan",
-        "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt"
+        "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt",
+        "tier": "official"
       }
     },
     {
@@ -5872,7 +5685,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       },
       "notes": "即梦中文理解最强，复杂中式场景用纯中文 prompt 效果最佳"
     },
@@ -5894,7 +5708,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -5915,7 +5730,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -5936,7 +5752,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -5957,7 +5774,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -5978,7 +5796,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -5999,7 +5818,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6020,7 +5840,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6041,7 +5862,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6062,7 +5884,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6083,7 +5906,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6104,7 +5928,8 @@
       },
       "source": {
         "name": "即梦 AI",
-        "url": "https://jimeng.jianying.com/"
+        "url": "https://jimeng.jianying.com/",
+        "tier": "official"
       }
     },
     {
@@ -6126,7 +5951,8 @@
       },
       "source": {
         "name": "LTX-Video Official",
-        "url": "https://huggingface.co/Lightricks/LTX-Video"
+        "url": "https://huggingface.co/Lightricks/LTX-Video",
+        "tier": "official-platform"
       },
       "notes": "官方推荐:单段 4-8 句自然流动 prose,present tense,literal precise"
     },
@@ -6148,7 +5974,8 @@
       },
       "source": {
         "name": "LTX-Video film.fun",
-        "url": "https://www.film.fun/articles/ltx-2-prompting-guide"
+        "url": "https://www.film.fun/articles/ltx-2-prompting-guide",
+        "tier": "unverified-3rd-party"
       },
       "notes": "LTX 独家技巧:screenplay 格式(EXT./INT. + 镜头描述 + 角色台词)在对话场景上效果惊艳"
     },
@@ -6170,7 +5997,8 @@
       },
       "source": {
         "name": "LTX-Video",
-        "url": "https://huggingface.co/Lightricks/LTX-Video"
+        "url": "https://huggingface.co/Lightricks/LTX-Video",
+        "tier": "official-platform"
       },
       "notes": "LTX 擅长写实日常场景,不擅长奇幻夸张"
     },
@@ -6191,7 +6019,8 @@
       },
       "source": {
         "name": "LTX-Video",
-        "url": "https://huggingface.co/Lightricks/LTX-Video"
+        "url": "https://huggingface.co/Lightricks/LTX-Video",
+        "tier": "official-platform"
       },
       "notes": "I2V 铁律:只描述运动 + 光线变化,不重描述图中已有内容"
     },
@@ -6213,7 +6042,8 @@
       },
       "source": {
         "name": "LTX-Video Community",
-        "url": "https://huggingface.co/Lightricks/LTX-Video"
+        "url": "https://huggingface.co/Lightricks/LTX-Video",
+        "tier": "official-platform"
       }
     },
     {
@@ -6234,7 +6064,8 @@
       },
       "source": {
         "name": "LTX-Video",
-        "url": "https://www.veed.io/learn/ltx-video-prompting-guide"
+        "url": "https://www.veed.io/learn/ltx-video-prompting-guide",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -6255,7 +6086,8 @@
       },
       "source": {
         "name": "LTX-Video",
-        "url": "https://comfyanonymous.github.io/ComfyUI_examples/ltxv/"
+        "url": "https://comfyanonymous.github.io/ComfyUI_examples/ltxv/",
+        "tier": "official"
       }
     },
     {
@@ -6276,7 +6108,8 @@
       },
       "source": {
         "name": "LTX-Video",
-        "url": "https://github.com/Lightricks/LTX-Video"
+        "url": "https://github.com/Lightricks/LTX-Video",
+        "tier": "official-platform"
       },
       "notes": "适合本地部署首次测试:写实材质 + 自然光 + 缓慢动作,LTX 最稳"
     },
@@ -6298,7 +6131,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://www.genmo.ai/blog/mochi-1-a-new-sota-in-open-text-to-video"
+        "url": "https://www.genmo.ai/blog/mochi-1-a-new-sota-in-open-text-to-video",
+        "tier": "official"
       },
       "notes": "Mochi 强项:5.4s 慢动作 + 物理细节准确"
     },
@@ -6320,7 +6154,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://www.genmo.ai/blog/mochi-1-a-new-sota-in-open-text-to-video"
+        "url": "https://www.genmo.ai/blog/mochi-1-a-new-sota-in-open-text-to-video",
+        "tier": "official"
       }
     },
     {
@@ -6341,7 +6176,8 @@
       },
       "source": {
         "name": "Genmo Replicate",
-        "url": "https://replicate.com/genmoai/mochi-1/examples"
+        "url": "https://replicate.com/genmoai/mochi-1/examples",
+        "tier": "official-platform"
       }
     },
     {
@@ -6362,7 +6198,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://replicate.com/genmoai/mochi-1/examples"
+        "url": "https://replicate.com/genmoai/mochi-1/examples",
+        "tier": "official-platform"
       }
     },
     {
@@ -6383,7 +6220,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://replicate.com/genmoai/mochi-1/examples"
+        "url": "https://replicate.com/genmoai/mochi-1/examples",
+        "tier": "official-platform"
       }
     },
     {
@@ -6404,7 +6242,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://github.com/genmoai/mochi"
+        "url": "https://github.com/genmoai/mochi",
+        "tier": "official-platform"
       }
     },
     {
@@ -6425,7 +6264,8 @@
       },
       "source": {
         "name": "Genmo Community",
-        "url": "https://www.genmo.ai/"
+        "url": "https://www.genmo.ai/",
+        "tier": "official"
       }
     },
     {
@@ -6446,7 +6286,8 @@
       },
       "source": {
         "name": "Genmo",
-        "url": "https://www.genmo.ai/"
+        "url": "https://www.genmo.ai/",
+        "tier": "official"
       }
     },
     {
@@ -6468,7 +6309,8 @@
       },
       "source": {
         "name": "Zhipu CogVideoX",
-        "url": "https://github.com/zai-org/CogVideo"
+        "url": "https://github.com/zai-org/CogVideo",
+        "tier": "official-platform"
       },
       "notes": "CogVideoX 官方样板 prompt,英文最多 226 token,详细场景描述"
     },
@@ -6490,7 +6332,8 @@
       },
       "source": {
         "name": "Zhipu",
-        "url": "https://huggingface.co/zai-org/CogVideoX-5b"
+        "url": "https://huggingface.co/zai-org/CogVideoX-5b",
+        "tier": "official-platform"
       }
     },
     {
@@ -6511,7 +6354,8 @@
       },
       "source": {
         "name": "Zhipu",
-        "url": "https://github.com/zai-org/CogVideo"
+        "url": "https://github.com/zai-org/CogVideo",
+        "tier": "official-platform"
       }
     },
     {
@@ -6532,7 +6376,8 @@
       },
       "source": {
         "name": "Zhipu CogVideoX-5b I2V",
-        "url": "https://openlaboratory.com/models/cog-video-x-5b-I2V/"
+        "url": "https://openlaboratory.com/models/cog-video-x-5b-I2V/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -6553,7 +6398,8 @@
       },
       "source": {
         "name": "Promptomania",
-        "url": "https://promptomania.com/models/zhipu/cogvideox"
+        "url": "https://promptomania.com/models/zhipu/cogvideox",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -6574,7 +6420,8 @@
       },
       "source": {
         "name": "CogVideoX Community",
-        "url": "https://github.com/zai-org/CogVideo"
+        "url": "https://github.com/zai-org/CogVideo",
+        "tier": "official-platform"
       }
     },
     {
@@ -6595,7 +6442,8 @@
       },
       "source": {
         "name": "Anakin CogVideoX",
-        "url": "http://anakin.ai/blog/cogvideox-5b/"
+        "url": "http://anakin.ai/blog/cogvideox-5b/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -6616,7 +6464,8 @@
       },
       "source": {
         "name": "CogVideoX",
-        "url": "https://huggingface.co/zai-org/CogVideoX-5b"
+        "url": "https://huggingface.co/zai-org/CogVideoX-5b",
+        "tier": "official-platform"
       }
     },
     {
@@ -6637,7 +6486,8 @@
       },
       "source": {
         "name": "Higgsfield",
-        "url": "https://higgsfield.ai/"
+        "url": "https://higgsfield.ai/",
+        "tier": "official"
       },
       "notes": "Higgsfield 反常识:短 prompt 优于长 prompt。DoP 模板直接给运镜动词。"
     },
@@ -6659,7 +6509,8 @@
       },
       "source": {
         "name": "Higgsfield",
-        "url": "https://higgsfield.ai/skills"
+        "url": "https://higgsfield.ai/skills",
+        "tier": "official"
       }
     },
     {
@@ -6679,7 +6530,8 @@
       },
       "source": {
         "name": "Higgsfield Soul",
-        "url": "https://higgsfield.ai/soul-intro"
+        "url": "https://higgsfield.ai/soul-intro",
+        "tier": "official"
       },
       "notes": "Soul ID 是 Higgsfield 独家:训练一次后,角色脸在所有场景保持一致。[Soul ID: name] 占位符替换"
     },
@@ -6701,7 +6553,8 @@
       },
       "source": {
         "name": "Higgsfield DoP",
-        "url": "https://resource.digen.ai/higgsfield-ai-video-model-2026-guide/"
+        "url": "https://resource.digen.ai/higgsfield-ai-video-model-2026-guide/",
+        "tier": "unverified-3rd-party"
       }
     },
     {
@@ -6722,7 +6575,8 @@
       },
       "source": {
         "name": "Higgsfield",
-        "url": "https://higgsfield.ai/blog/ai-short-film-youtube-guide"
+        "url": "https://higgsfield.ai/blog/ai-short-film-youtube-guide",
+        "tier": "official"
       }
     },
     {
@@ -6743,7 +6597,8 @@
       },
       "source": {
         "name": "Higgsfield AI Director",
-        "url": "https://higgsfield.ai/"
+        "url": "https://higgsfield.ai/",
+        "tier": "official"
       },
       "notes": "Higgsfield AI Director 强项:多场景自动分镜 + Soul ID 角色保持"
     },
@@ -6765,7 +6620,8 @@
       },
       "source": {
         "name": "Higgsfield",
-        "url": "https://blog.segmind.com/higgsfield-ai-prompt-guide-video-creation/"
+        "url": "https://blog.segmind.com/higgsfield-ai-prompt-guide-video-creation/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -6786,8 +6642,17 @@
       },
       "source": {
         "name": "Higgsfield AI Director",
-        "url": "https://higgsfield.ai/blog/ai-short-film-youtube-guide"
+        "url": "https://higgsfield.ai/blog/ai-short-film-youtube-guide",
+        "tier": "official"
       }
     }
-  ]
+  ],
+  "tier_definitions": {
+    "official": "厂商直接拥有的域名(OpenAI/DeepMind/MiniMax/Runway/Higgsfield/Alibaba/Genmo/ByteDance 等)",
+    "official-platform": "官方 GitHub/HuggingFace/Replicate/fal.ai 等合作部署平台",
+    "reputable-3rd-party": "内容质量高的第三方评测/平台博客(Atlas Cloud/Atlabs/Imagine.art/CrePal 等)",
+    "unverified-3rd-party": "SEO 农场/未经验证第三方(tryhappyhorseai/CyberLink marketing/ulazai 等)",
+    "broken": "死链或域名失效(elser.ai)",
+    "unknown": "无 URL 或域名未分级"
+  }
 }
