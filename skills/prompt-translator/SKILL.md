@@ -93,6 +93,31 @@ description: 把一条 AI 视频提示词从源模型(如 Sora 2)的写法风格
 
 ### 步骤 5:输出格式
 
+#### ⚠️ 目标格式硬约束(每次必查)
+
+**无论源 prompt 是 prose 还是带标签,目标 prompt 必须严格遵循目标模型在 `cross-model-matrix.json` 里的标签格式**。不要 prose 化输出。
+
+| 目标模型 | 必带标签 / 结构 | 反例(LLM 容易犯) |
+|---|---|---|
+| Kling 3.0 | `Scene:` / `Characters:` / `Action:` / `Camera:` / `Audio & Style:` / `Negative:` | ❌ 一段 prose 把 5 层揉进自然语言 |
+| Sora 2 | `Style:` / `Cinematography:` / `Actions:`(- beats)/ `Background Sound:` / `Dialogue:` | ❌ 合并成单段描述 |
+| Veo 3.1 | 8 元素 + `Dialogue:` / `Audio:` 双标记 | ❌ 漏 Dialogue/Audio 显式标签 |
+| Wan 2.7 | `Entity:` / `Scene:` / `Motion:` / `Sound:` 四段 | ❌ 揉成一段 |
+| Seedance 2.0 | 8 要素 prose 单段(主体+动作+场景+光+相机+风格+音频+约束) | ✓ 这家就是 prose |
+| HappyHorse 1.0 | 紧凑 prose 30-55 词;明确时序时 `Ns duration.` 开头 | ❌ 把时长埋在中段 |
+| Hailuo 02 | 克制简洁 prose,1-3 句 | ❌ 堆砌过长 |
+| Pika 2.5 | 单一焦点 prose,`Negative:` 必带 `no morphing` | ❌ 多主体堆叠 |
+| Runway Gen-4.5 | prose + Aleph 编辑动词(`recolor / add / remove`) | ❌ 描述静态而非编辑动作 |
+| Hunyuan / LTX / Mochi / CogVideoX | 详细 prose,单段 | — |
+| 即梦 / Jimeng | 8 维度公式(同 Seedance) | ❌ 漏维度 |
+
+**自检清单**(输出前必过):
+1. [ ] 目标 prompt 有没有上表对应的标签/结构?
+2. [ ] 数据库 `cross-model-matrix.json` 中该模型该场景的 prompt 长什么样?我的输出格式跟它一致吗?
+3. [ ] 如果不一致,**重写**,不要凑合。
+
+#### 输出模板
+
 ```markdown
 ## 转换结果
 
@@ -100,7 +125,7 @@ description: 把一条 AI 视频提示词从源模型(如 Sora 2)的写法风格
 **参考场景**: [scene-N-xxx · 用户输入最像哪个对照场景]
 
 \`\`\`
-[转换后的目标模型 prompt]
+[转换后的目标模型 prompt — 必须带上表对应标签]
 \`\`\`
 
 ## 转换映射(供检查)
