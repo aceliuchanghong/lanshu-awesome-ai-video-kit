@@ -120,7 +120,7 @@ python3 serve.py 8000
 | 模型 | 厂商 | 看家本领 | 时长 | 中文 | 音频 | 物理 |
 |---|---|---|---|---|---|---|
 | **Seedance 2.0** ⭐ | 字节 · 火山方舟 | **综合 SOTA · 53 页官方 PDF · 8 要素公式 · 即梦底层** | 60s 2K | ★★★ | ★★★ | ★★★ |
-| **HappyHorse 1.0** | 阿里巴巴 | 紧凑短片专精 + 30-55 词 + 8s 时序节拍 + 原生环境音 | 8s | ★★★ | ★★ | ★★ |
+| **HappyHorse 1.0** | 阿里巴巴 | 紧凑短片专精 + 30-55 词 + 8s 时序节拍 + 原生环境音 | 15s（默认 5s） | ★★★ | ★★ | ★★ |
 | **Kling 3.0** | 快手 · 可灵 | **S 级** · 中文 + 图生视频 + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ |
 | **Veo 3.1** | Google DeepMind | **S 级** · 原生音频最强 + 多人对话 | 60s | ★★ | ★★★★★ | ★★★ |
 | **Sora 2** ⚠️ | OpenAI | 电影艺术片 + Cameos · **⚠️ web/app 已停 2026-04-26** | 20s | ★★ | ★★★★ | ★★★★★ |
@@ -164,7 +164,7 @@ done
 | [`seedance-prompter`](skills/seedance-prompter/SKILL.md) | "做个 Seedance 视频" | 8 要素结构化 prompt |
 | [`seedance-storyboard`](skills/seedance-storyboard/SKILL.md) | "把剧情拆成分镜" | 3-5 个分镜 + 4 维度组织 |
 | [`seedance-debugger`](skills/seedance-debugger/SKILL.md) | "我的 prompt 出问题了" | 12 类诊断 + 修复版 |
-| [`happyhorse-prompter`](skills/happyhorse-prompter/SKILL.md) | "5-8 秒紧凑短片" | 30-55 词 + 原生音频路径 |
+| [`happyhorse-prompter`](skills/happyhorse-prompter/SKILL.md) | "5/10/15 秒紧凑短片" | 30-55 词 + 原生音频路径 |
 | [`kling-prompter`](skills/kling-prompter/SKILL.md) | "可灵 / 图生视频 / 中文剧情" | 三套写法自适应 |
 
 ---

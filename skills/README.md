@@ -34,7 +34,7 @@ done
 | [seedance-prompter](seedance-prompter/SKILL.md) | Seedance | "帮我写 Seedance 提示词"、"做个视频" | 8 要素结构化提示词 |
 | [seedance-storyboard](seedance-storyboard/SKILL.md) | Seedance | "把这个剧情拆成分镜"、"多镜头视频" | 3-5 个分镜 + 4 维度组织 |
 | [seedance-debugger](seedance-debugger/SKILL.md) | Seedance | "我的提示词出问题了"、"人脸不像了" | 12 类诊断 + 修复 |
-| [happyhorse-prompter](happyhorse-prompter/SKILL.md) | HappyHorse | "5-8 秒短片"、"原生带音频" | 30-55 词紧凑 + 音频路径 |
+| [happyhorse-prompter](happyhorse-prompter/SKILL.md) | HappyHorse | "5/10/15 秒短片"、"原生带音频" | 30-55 词紧凑 + 音频路径 |
 | [kling-prompter](kling-prompter/SKILL.md) | Kling | "可灵"、"Kling"、"图生视频"、"角色对话"、"中文剧情" | 三套写法自适应(4 部分/5 层/图生视频) |
 
 ## 选 Skill 的决策树
@@ -44,7 +44,7 @@ done
 ├── 不知道用哪个模型(含 4 开源)         → model-selector ★
 ├── 已有 prompt 想换模型(Sora→Kling 等) → prompt-translator ★
 ├── 中文剧情、原生音频+对话、图生视频    → kling-prompter
-├── 5-8 秒紧凑 + 要原生环境音            → happyhorse-prompter
+├── 5/10/15 秒紧凑 + 要原生环境音            → happyhorse-prompter
 ├── 10-15 秒单镜头复杂叙事               → seedance-prompter
 ├── 多镜头剧情切换                       → seedance-storyboard
 └── 已有 Seedance 提示词但效果不对        → seedance-debugger

@@ -9,7 +9,7 @@ description: 把用户的自然语言视频需求转换为符合 Doubao Seedance
 
 ## 何时不用此 skill
 
-- 用户描述的是 **5-8 秒紧凑短片** 或 **要原生带音频** → 用 [happyhorse-prompter](../happyhorse-prompter/)
+- 用户描述的是 **5/10/15 秒紧凑短片** 或 **要原生带音频** → 用 [happyhorse-prompter](../happyhorse-prompter/)
 - 用户已有提示词但效果不对 → 用 [seedance-debugger](../seedance-debugger/)
 - 剧情复杂需要多镜头切换 → 用 [seedance-storyboard](../seedance-storyboard/)
 

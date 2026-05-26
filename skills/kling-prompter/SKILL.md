@@ -10,7 +10,7 @@ Kling 3.0（可灵 3.0，快手）的三套主流写法：4 部分基础 / 5 层
 ## 何时不用此 skill
 
 - 复杂多镜头分镜叙事（>15s） → 用 [seedance-storyboard](../seedance-storyboard/)
-- 5-8 秒紧凑短片，对原生音频要求不高 → 用 [happyhorse-prompter](../happyhorse-prompter/)
+- 5/10/15 秒紧凑短片，对原生音频要求不高 → 用 [happyhorse-prompter](../happyhorse-prompter/)
 - 已有 Seedance 提示词需修问题 → 用 [seedance-debugger](../seedance-debugger/)
 
 ## 三套写法决策树

@@ -85,7 +85,7 @@ Structured into 4 categories of practical resources:
 | Model | Vendor | Headline | Length | CJK | Audio | Physics | Edit | China access |
 |---|---|---|---|---|---|---|---|---|
 | **Seedance 2.0** ⭐ | ByteDance / Volcano Ark | **Overall SOTA · 53-page official PDF · 8-element formula · powers Jimeng** | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
-| **HappyHorse 1.0** | Alibaba | Tight short-form specialist · 30-55 words · 8s beats · native ambient audio | 8s | ★★★ | ★★ | ★★ | — | ✓ |
+| **HappyHorse 1.0** | Alibaba | Tight short-form specialist · 30-55 words · 8s beat structure · native ambient audio | 15s (default 5s) | ★★★ | ★★ | ★★ | — | ✓ |
 | **Kling 3.0** | Kuaishou | **S-tier** · CJK + I2V + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ | ✓ | ✓ |
 | **Veo 3.1** | Google DeepMind | **S-tier** · best native audio + multi-speaker dialogue | 60s | ★★ | ★★★★★ | ★★★ | — | △ |
 | **Sora 2** ⚠️ | OpenAI | Cinematic + Cameos · **⚠️ web/app sunset 2026-04-26** | 20s | ★★ | ★★★★ | ★★★★★ | — | △ |
@@ -196,7 +196,7 @@ Read [methodology/](methodology/) in order:
 | [seedance-prompter](skills/seedance-prompter/SKILL.md) | Seedance | "make a Seedance video" | 8-element structured prompt |
 | [seedance-storyboard](skills/seedance-storyboard/SKILL.md) | Seedance | "split this plot into shots" | 3-5 time-sequenced shots |
 | [seedance-debugger](skills/seedance-debugger/SKILL.md) | Seedance | "my prompt is broken" | 12-category diagnosis + fixed version |
-| [happyhorse-prompter](skills/happyhorse-prompter/SKILL.md) | HappyHorse | "5-8s tight video + native audio" | 30-55 words + audio path |
+| [happyhorse-prompter](skills/happyhorse-prompter/SKILL.md) | HappyHorse | "3-15s tight video + native audio" | 30-55 words + audio path |
 | [kling-prompter](skills/kling-prompter/SKILL.md) | Kling | "Kling / CJK drama / image-to-video" | Auto-adapts among 3 styles |
 
 See [skills/README.md](skills/README.md) for the decision tree.

@@ -10,7 +10,7 @@ description: 把复杂剧情/故事大纲拆分为 Seedance 2.0 的"镜头1/镜�
 ## 何时不用此 skill
 
 - 单一镜头单一动作 → 用 [seedance-prompter](../seedance-prompter/)
-- 5-8 秒紧凑短片（HappyHorse 限制） → 用 [happyhorse-prompter](../happyhorse-prompter/)
+- 5/10/15 秒紧凑短片（HappyHorse 主战场） → 用 [happyhorse-prompter](../happyhorse-prompter/)
 - 想做循环视频 → 单镜头 + `loop-ready motion with seamless start and end frames`
 
 ## 核心规则

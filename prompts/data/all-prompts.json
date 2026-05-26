@@ -15,7 +15,7 @@
     "happyhorse-1.0": {
       "name": "HappyHorse 1.0",
       "vendor": "阿里巴巴",
-      "max_duration": "5-8s",
+      "max_duration": "15s (千问 App 5/10/15s 三档，默认 5s)",
       "prompt_length": "30-55 词 (最优)",
       "audio": "原生联合生成音视频",
       "strengths": ["⭐ 2026 年 5 月 Elo 排名第一（1357）", "紧凑短片", "ASMR", "原生带音频", "8s 时序节拍"]
