@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.7",
+  "schema_version": "1.8",
   "updated": "2026-05-26",
   "total": 280,
   "models": {
@@ -438,45 +438,45 @@
     {
       "id": "cg-004",
       "model": "cogvideox-5b",
-      "category": "image-to-video",
       "title": "CogVideoX I2V 风景动态化",
-      "prompt": "Based on the provided still image, animate gentle motion in the scene. Water in the foreground ripples softly, leaves on trees sway with a light breeze, distant clouds drift slowly across the sky. The lighting subtly shifts as if a cloud is passing over the sun. The overall composition remains identical to the reference image with only natural ambient motion added.",
+      "prompt": "Based on the provided still image of a tranquil landscape, gentle motion brings the scene to life over the course of six seconds. Water in the foreground ripples softly as a light breeze passes across its surface, concentric circles spreading outward from a single point. Leaves on the trees lining the shore sway with the wind, their fresh green coloring catching shifts of dappled sunlight. Distant clouds drift slowly across a brilliantly clear sky, their shadows moving subtly across the rolling hills behind. The camera holds a steady wide composition, capturing the serene movement of nature without any cuts. Soft, diffused daylight bathes the entire scene in warm golden tones, creating a picturesque, contemplative atmosphere.",
       "tags": [
         "image-to-video",
         "nature",
         "ambient",
         "cogvideo"
       ],
+      "category": "image-to-video",
       "params": {
         "aspect": "16:9",
         "duration": "6s"
       },
       "source": {
-        "name": "Zhipu CogVideoX-5b I2V",
-        "url": "https://openlaboratory.com/models/cog-video-x-5b-I2V/",
-        "tier": "unverified-3rd-party"
+        "name": "Zhipu CogVideoX-5b-I2V",
+        "url": "https://huggingface.co/zai-org/CogVideoX-5b-I2V",
+        "tier": "official-platform"
       }
     },
     {
       "id": "cg-005",
       "model": "cogvideox-5b",
-      "category": "open-source",
       "title": "CogVideoX 本地部署测试 prompt",
-      "prompt": "A cat with bright green eyes is sitting on a windowsill, watching raindrops trace patterns down the glass. The cat's tail twitches occasionally. Outside, blurred lights of a city evening glow softly in pinks and blues. Inside, warm lamplight illuminates the cat's fur from behind, creating a golden rim. Slow gentle camera push toward the cat's face.",
+      "prompt": "A cat with bright green eyes sits on a wooden windowsill, watching raindrops trace winding patterns down the cold glass. The cat's striped grey fur is illuminated by the warm interior light, while outside, blurred lights of a city evening glow softly in the rain-soaked street. The cat's tail twitches occasionally, ears rotating slightly toward the sound of distant traffic. Each raindrop catches a tiny reflection of the city lights as it slides down the pane. The camera holds a static medium close-up framing the cat in profile against the window, capturing the contrast between the cozy indoor warmth and the cool blue tones of the rainy night outside.",
       "tags": [
         "pet",
         "rainy",
         "test",
         "open-source"
       ],
+      "category": "open-source",
       "params": {
         "aspect": "16:9",
         "duration": "8s"
       },
       "source": {
-        "name": "Promptomania",
-        "url": "https://promptomania.com/models/zhipu/cogvideox",
-        "tier": "unverified-3rd-party"
+        "name": "Zhipu CogVideoX",
+        "url": "https://github.com/zai-org/CogVideo",
+        "tier": "official-platform"
       }
     },
     {
@@ -504,23 +504,23 @@
     {
       "id": "cg-007",
       "model": "cogvideox-5b",
-      "category": "product-commercial",
       "title": "CogVideoX 手表精致展示",
-      "prompt": "A close-up of a luxury mechanical watch on a polished walnut surface, the second hand sweeping smoothly across the dial, internal gears visible through a transparent caseback in alternating shots, single warm key light from upper right creating crisp specular highlights on the polished steel bezel, shallow depth of field, premium commercial cinematography style.",
+      "prompt": "A close-up of a luxury mechanical watch rests on a polished walnut surface, the rich grain of the wood catching warm directional light. The second hand sweeps smoothly across the white enamel dial, each tick rendered in fine detail. The camera slowly orbits around the watch, revealing the brushed-steel case from multiple angles. Through the transparent caseback in alternating shots, the intricate movement of internal gears, jewels, and the balance wheel becomes visible, each component working in delicate synchronization. Single key light from the upper right creates crisp specular highlights along the polished bezel and crown, while soft shadows fall behind the watch on the wood. The atmosphere is serene and contemplative, highlighting the artistry of the timepiece.",
       "tags": [
         "product",
         "watch",
         "macro",
         "luxury"
       ],
+      "category": "product-commercial",
       "params": {
         "aspect": "1:1",
         "duration": "8s"
       },
       "source": {
-        "name": "Anakin CogVideoX",
-        "url": "http://anakin.ai/blog/cogvideox-5b/",
-        "tier": "unverified-3rd-party"
+        "name": "Zhipu CogVideoX",
+        "url": "https://github.com/zai-org/CogVideo",
+        "tier": "official-platform"
       }
     },
     {
@@ -572,24 +572,24 @@
     {
       "id": "hl-002",
       "model": "hailuo-02",
-      "category": "physics-sim",
       "title": "烛火被风吹动（火焰物理）",
-      "prompt": "A single candle flame flickers and bends as a gust of wind passes through the dark room. Smoke trails realistically, wax melts and pools at the base. Extreme close-up, side-light only from the flame itself. Slow motion. Accurate combustion physics.",
+      "prompt": "A single candle flame flickers and bends as a gust of wind passes through a dark room. The flame stretches sideways with accurate fluid dynamics, smoke trails rise in twisting columns, hot wax pools and drips slowly down the side of the candle. Extreme close-up, side-light only from the flame itself.",
       "tags": [
         "physics",
         "fire",
         "candle",
         "macro"
       ],
+      "category": "physics-sim",
       "params": {
         "aspect": "1:1",
         "duration": "6s",
         "resolution": "1080p"
       },
       "source": {
-        "name": "Cliprise",
-        "url": "https://www.cliprise.app/learn/guides/model-guides/hailuo-02-complete-guide",
-        "tier": "unverified-3rd-party"
+        "name": "MiniMax Platform",
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       }
     },
     {
@@ -664,47 +664,47 @@
     {
       "id": "hl-006",
       "model": "hailuo-02",
-      "category": "action",
       "title": "篮球扣篮特写",
-      "prompt": "A basketball player rises and slams a dunk through the hoop, the ball drops through the net, rim and backboard vibrate from impact, player hangs on the rim briefly. Low-angle hero shot from courtside, stadium lighting, slow motion at the peak of the jump.",
+      "prompt": "A basketball player rises and slams a dunk through the hoop. The ball drops cleanly through the net, the rim and backboard vibrate from impact with accurate physics, the player hangs briefly on the rim before releasing. Low-angle hero shot from courtside, real-time playback, hardwood floor reflections.",
       "tags": [
         "sports",
         "basketball",
         "low-angle",
         "slow-motion"
       ],
+      "category": "action",
       "params": {
         "aspect": "16:9",
         "duration": "8s",
         "resolution": "1080p"
       },
       "source": {
-        "name": "Hailuo",
-        "url": "https://akool.com/blog-posts/minimax-hailuo-video-prompt-guide",
-        "tier": "unverified-3rd-party"
+        "name": "MiniMax Platform",
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       }
     },
     {
       "id": "hl-007",
       "model": "hailuo-02",
-      "category": "cinematic",
       "title": "雪夜街头的拥抱",
-      "prompt": "Two people in heavy coats embrace tightly on a snowy city street at night under a streetlamp. Snowflakes settle on their shoulders, breath visible in cold air. Medium shot, slow circling camera. Warm sodium streetlight against blue cold ambient. Quiet, intimate mood.",
+      "prompt": "Two people in heavy coats embrace on a snowy city street at night under a streetlamp. Snowflakes settle on their shoulders and hair with accurate weight, breath fogs visibly in the cold air, fabric of their coats compresses where pressed together. Medium shot, slow circling camera, warm tungsten light against cold blue night.",
       "tags": [
         "emotional",
         "winter",
         "street",
         "circling"
       ],
+      "category": "cinematic",
       "params": {
         "aspect": "16:9",
         "duration": "10s",
         "resolution": "1080p"
       },
       "source": {
-        "name": "fluxproweb",
-        "url": "https://fluxproweb.com/blog/detail/Create-Videos-with-MiniMax-Hailuo-AI-A-Practical-Guide-to-Hailuo-02-2-3-f22b19c7c4dd/",
-        "tier": "unverified-3rd-party"
+        "name": "Hailuo Prompt Guide",
+        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -733,24 +733,24 @@
     {
       "id": "hl-009",
       "model": "hailuo-02",
-      "category": "comedy",
       "title": "小狗失败接飞盘",
-      "prompt": "A golden retriever puppy enthusiastically jumps to catch a frisbee but misses, tumbles into the soft grass, immediately gets back up tail wagging. Side-angle medium shot, sunny park afternoon, real-time motion. Physical comedy, accurate physics.",
+      "prompt": "A golden retriever puppy enthusiastically leaps to catch a frisbee but misses, tumbles into soft grass with accurate gravity, immediately bounces back up tail wagging. Fur ripples on impact, the disc spins past in the background. Side-angle medium shot, sunny park afternoon, real-time playback.",
       "tags": [
         "pet",
         "comedy",
         "physical",
         "outdoor"
       ],
+      "category": "comedy",
       "params": {
         "aspect": "16:9",
         "duration": "8s",
         "resolution": "1080p"
       },
       "source": {
-        "name": "Freepik",
-        "url": "https://www.freepik.com/blog/minimax-hailuo-02/",
-        "tier": "unverified-3rd-party"
+        "name": "MiniMax Platform",
+        "url": "https://platform.minimax.io/docs/guides/video-generation",
+        "tier": "official"
       }
     },
     {
@@ -779,24 +779,24 @@
     {
       "id": "hl-011",
       "model": "hailuo-02",
-      "category": "cinematic",
-      "title": "雨中弃车爆胎",
-      "prompt": "An abandoned vintage car on a desolate desert road suddenly has its rear tire burst, rubber shreds fly outward, the car settles down with realistic suspension compression. Wide low-angle shot, stormy grey sky, gust of wind blowing dust.",
+      "title": "沙漠弃车爆胎",
+      "prompt": "An abandoned vintage car sits on a desolate desert road, its rear tire suddenly bursts. Rubber shreds fly outward in accurate angular momentum, the chassis settles with realistic suspension compression, dust kicks up and disperses in the dry wind. Wide low-angle shot, stormy dusk lighting, real-time motion.",
       "tags": [
         "physics",
         "destruction",
         "desert",
         "cinematic"
       ],
+      "category": "cinematic",
       "params": {
         "aspect": "21:9",
         "duration": "8s",
         "resolution": "1080p"
       },
       "source": {
-        "name": "qwe.edu.pl",
-        "url": "https://www.qwe.edu.pl/tutorial/how-to-use-minimax-ai-hailuo-video-generation/",
-        "tier": "unverified-3rd-party"
+        "name": "Hailuo Prompt Guide",
+        "url": "https://blog.segmind.com/hailuo-minimax-ai-video-prompt-guide/",
+        "tier": "reputable-3rd-party"
       }
     },
     {
@@ -2207,21 +2207,22 @@
       "model": "higgsfield-soul",
       "category": "cinematic",
       "title": "Higgsfield DoP 模板:Crash Zoom",
-      "prompt": "Crash zoom from wide to extreme close-up on the protagonist's eye. He realizes something. The reflection in his iris reveals a tiny figure approaching from far behind. Cold blue light.",
+      "prompt": "Crash zoom from wide establishing to extreme close-up on the protagonist eye, the moment of realization frozen in his iris where a tiny silhouette approaches from far behind, cold cyan rim light with dim ambient fill, shallow focus, 24fps, single take with consistent character ID, no morphing of background plates.",
       "tags": [
         "dop-template",
         "crash-zoom",
         "thriller",
-        "short"
+        "short",
+        "soul-id"
       ],
       "params": {
         "aspect": "21:9",
         "duration": "4s"
       },
       "source": {
-        "name": "Higgsfield DoP",
-        "url": "https://resource.digen.ai/higgsfield-ai-video-model-2026-guide/",
-        "tier": "unverified-3rd-party"
+        "name": "Higgsfield · DoP Skills (Crash Zoom)",
+        "url": "https://higgsfield.ai/skills",
+        "tier": "official"
       }
     },
     {
@@ -2407,23 +2408,23 @@
     {
       "id": "hy-005",
       "model": "hunyuan-video",
-      "category": "fantasy-scifi",
       "title": "古代水墨山水画动起来",
-      "prompt": "A traditional Chinese ink-wash landscape painting comes alive: mist drifts between distant mountains, a small wooden boat floats gently down the river, a heron lifts off from the reeds. Subtle motion, paper texture preserved, ink running slightly.",
+      "prompt": "A traditional Chinese ink-wash landscape painting comes alive on flat, laid-out Xuan paper with a subtle, fibrous texture. Initially, the painting appears still: several steep distant mountains stand faintly visible amidst clouds and mist, a small wooden boat rests on a wide, tranquil river. Then, soft diluted grey tones begin to billow around the mountains, creating layers of atmospheric mist that drift slowly. The boat slides gently downstream as ink ripples extend outward from its bow. A heron rendered in a few deft strokes lifts off from the reeds, its wings unfolding in fluid ink lines. Subtle motion throughout, minimalist composition. The mood is elegant, poetic, with cultural depth — the ink itself seems to breathe.",
       "tags": [
         "ink-wash",
         "chinese",
         "animation",
         "minimal"
       ],
+      "category": "fantasy-scifi",
       "params": {
         "aspect": "21:9",
         "duration": "8s"
       },
       "source": {
-        "name": "ReelMind",
-        "url": "https://reelmind.ai/blog/tencent-hunyuan-open-source-ai-video-with-custom-prompting",
-        "tier": "unverified-3rd-party"
+        "name": "Tencent Hunyuan Video 1.5",
+        "url": "https://huggingface.co/tencent/HunyuanVideo-1.5",
+        "tier": "official-platform"
       }
     },
     {
@@ -2451,23 +2452,23 @@
     {
       "id": "hy-007",
       "model": "hunyuan-video",
-      "category": "portrait",
       "title": "工坊老工匠手部特写",
-      "prompt": "An elderly Chinese craftsman's weathered hands carve intricate patterns into a wooden block, wood shavings curl off the chisel, dust motes float in a single beam of window light. Extreme close-up, soft natural lighting, documentary feel, no music.",
+      "prompt": "A macro shot focuses on an elderly Chinese craftsman's weathered hands as they carve intricate patterns into a wooden block, rendered in a cinematic photography realistic style. The hands are positioned diagonally across the frame, deep grooves and age spots visible on the skin. Initially, the chisel is held with surgical steadiness above the wood. Then, with breathtaking precision and in extreme slow motion, the blade descends, and a curl of pale wood shavings peels away in a single continuous spiral. Next, dust motes begin to drift through a single beam of warm window light that crosses the workbench at a low angle. The camera holds steady on the hands and the emerging pattern, capturing each careful pass of the chisel, the fine grain of the wood, and the quiet dignity of the craft.",
       "tags": [
         "craft",
         "hands",
         "documentary",
         "close-up"
       ],
+      "category": "portrait",
       "params": {
         "aspect": "16:9",
         "duration": "8s"
       },
       "source": {
-        "name": "Hunyuan",
-        "url": "https://localaimaster.com/blog/hunyuan-video-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Tencent Hunyuan Video 1.5",
+        "url": "https://huggingface.co/tencent/HunyuanVideo-1.5",
+        "tier": "official-platform"
       }
     },
     {
@@ -2561,25 +2562,24 @@
     {
       "id": "hy-012",
       "model": "hunyuan-video",
-      "category": "open-source",
       "title": "LoRA 风格化训练样本（赛博朋克水墨）",
-      "prompt": "A cyberpunk samurai in glowing neon armor walks through a rain-soaked Tokyo alleyway, the entire scene rendered as flowing Chinese ink-wash with neon highlights, smoke and rain dissolving into ink particles. Tracking shot.",
+      "prompt": "A cyberpunk samurai in glowing neon armor walks through a rain-soaked Tokyo alleyway at night. The scene is rendered in a fusion style: the structural lines of the figure, the buildings, and the rain itself flow in traditional Chinese ink-wash brushstrokes — varying shades from jet-black to smoky grey — while highlights and reflections burn in saturated cyberpunk pinks, purples, and electric blues. The wet asphalt below catches shimmering neon reflections, and a complex web of cables crisscrosses overhead. As the samurai moves forward, trails of smoke and rain dissolve into ink particles that drift and reform in the air behind him. The camera tracks slowly in parallel, holding a medium full shot. Atmospheric haze fills the alley; distant flickering advertisements paint the mist in shifting colors.",
       "tags": [
         "cyberpunk",
         "ink-wash",
         "fusion",
         "lora-test"
       ],
+      "category": "open-source",
       "params": {
         "aspect": "16:9",
         "duration": "8s"
       },
       "source": {
-        "name": "Local AI Master",
-        "url": "https://localaimaster.com/blog/hunyuan-video-guide",
-        "tier": "unverified-3rd-party"
-      },
-      "notes": "适合自训 LoRA 测试的混合风格 prompt"
+        "name": "Tencent Hunyuan Video 1.5",
+        "url": "https://huggingface.co/tencent/HunyuanVideo-1.5",
+        "tier": "official-platform"
+      }
     },
     {
       "id": "jm-001",
@@ -3227,25 +3227,24 @@
     {
       "id": "lt-002",
       "model": "ltx-video",
-      "category": "dialogue-driven",
       "title": "LTX screenplay 格式:小镇新闻报道",
-      "prompt": "EXT. SMALL TOWN STREET – MORNING – LIVE NEWS BROADCAST. The shot opens on a news reporter standing in front of cordoned-off cars, yellow caution tape fluttering behind him. Warm early sun reflects off the camera lens. The reporter, composed but visibly excited, looks directly into the camera, microphone in hand. 'Thank you, Sylvia — this morning, here in the quiet town of New Castle, Vermont, black gold has been found!' He gestures toward the field behind him. The camera pans right, slowly revealing a construction site. With a sudden roar, a geyser of oil erupts from the ground. Workers cheer, the black stream glistening in the morning light. The camera shakes slightly through the chaos.",
+      "prompt": "EXT. SMALL TOWN STREET – MORNING – LIVE NEWS BROADCAST. The shot opens on a news reporter standing in front of cordoned-off cars, yellow caution tape fluttering behind him. He wears a navy blue jacket, holds a black microphone in his right hand, and addresses the camera with a serious expression. He has short brown hair, light skin, and visible stubble. The camera holds a medium shot, focused on his face and upper body. Warm early sun reflects off the chrome of a vintage station wagon parked behind him; a uniformed officer walks past in the background and pauses near the tape. The reporter glances briefly off-screen to his right, then back to the camera, continuing to speak. The scene is captured in real-life footage, with natural ambient sound from the street.",
       "tags": [
         "screenplay",
         "dialogue",
         "ltx-official",
         "narrative"
       ],
+      "category": "dialogue-driven",
       "params": {
         "aspect": "16:9",
         "duration": "10s"
       },
       "source": {
-        "name": "LTX-Video film.fun",
-        "url": "https://www.film.fun/articles/ltx-2-prompting-guide",
-        "tier": "unverified-3rd-party"
-      },
-      "notes": "LTX 独家技巧:screenplay 格式(EXT./INT. + 镜头描述 + 角色台词)在对话场景上效果惊艳"
+        "name": "Lightricks LTX-Video",
+        "url": "https://huggingface.co/Lightricks/LTX-Video-0.9.7-dev",
+        "tier": "official-platform"
+      }
     },
     {
       "id": "lt-003",
@@ -3317,23 +3316,23 @@
     {
       "id": "lt-006",
       "model": "ltx-video",
-      "category": "cinematic",
       "title": "LTX 实时雨中咖啡",
-      "prompt": "A woman in her thirties sits alone at a window seat in a cafe, watching rain streak down the glass. She wraps both hands around a steaming ceramic cup and lifts it slowly to her lips. The camera holds in a medium-close shot from across the table, ambient warm tungsten light from inside contrasting with the cool grey daylight outside. Soft jazz piano implied. She takes a long sip and her shoulders visibly relax.",
+      "prompt": "A woman in her thirties sits alone at a window seat in a cafe, watching rain streak down the glass. She has light skin, long brown hair tied loosely, and wears a cream-colored sweater over a white collared shirt. The camera remains stationary, framing her in a medium close-up from the side. She wraps both hands around a steaming ceramic cup, lifts it slowly to her lips, and takes a small sip; her eyes stay fixed on the rain outside. A small drop of condensation slides down the cup. Outside the window, blurred figures with umbrellas pass on the wet sidewalk, their reflections catching the warm interior light of the cafe. The lighting is soft and natural, predominantly from the gray daylight diffused through the rain on the glass. The scene appears to be real-life footage.",
       "tags": [
         "slice-of-life",
         "rain",
         "cafe",
         "natural"
       ],
+      "category": "cinematic",
       "params": {
         "aspect": "16:9",
         "duration": "8s"
       },
       "source": {
-        "name": "LTX-Video",
-        "url": "https://www.veed.io/learn/ltx-video-prompting-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Lightricks LTX-Video",
+        "url": "https://huggingface.co/Lightricks/LTX-Video-0.9.7-dev",
+        "tier": "official-platform"
       }
     },
     {
@@ -4020,67 +4019,67 @@
     {
       "id": "rw-009",
       "model": "runway-gen4",
-      "category": "action",
       "title": "瀑布旁的摩托追逐",
-      "prompt": "A motorcycle speeds along a winding mountain road beside a tall waterfall. Low tracking shot following from the side. Spray and mist catch the late afternoon light. Dynamic motion blur, cinematic realism.",
+      "prompt": "A motorcycle speeds along a winding mountain road beside a tall waterfall. Low tracking shot follows from the side at high speed. Spray and mist from the falls catch the late afternoon light. Dynamic motion blur on the foreground rocks, cinematic realism, golden hour color palette. The road curves out of frame to the right as the rider leans into the turn. Natural handheld camera shake. Observational documentary feel.",
       "tags": [
         "action",
         "motorcycle",
         "waterfall",
         "tracking"
       ],
+      "category": "action",
       "params": {
         "aspect": "16:9",
         "duration": "10s"
       },
       "source": {
-        "name": "filmart.ai",
-        "url": "https://filmart.ai/runway-gen-4-prompts/",
-        "tier": "unverified-3rd-party"
+        "name": "Runway Gen-4 Video Prompting Guide",
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
       "id": "rw-010",
       "model": "runway-gen4",
-      "category": "nature",
       "title": "冰岛极简风景",
-      "prompt": "A vast Icelandic black sand beach at dusk, a single basalt column standing in the foreground, gentle waves washing the shore. Static wide shot. Muted blue-grey palette, hyperrealistic textures, slow ambient motion.",
+      "prompt": "A vast Icelandic black sand beach at dusk. A single basalt column stands in the foreground, rough textured stone catching the last directional light. Gentle waves wash the shore in repeating cycles. Static wide shot, locked-off composition. Muted blue-grey color palette, hyperrealistic textures, slow ambient drift in the distant water. Atmospheric stillness, no morphing, observational stillness.",
       "tags": [
         "landscape",
         "iceland",
         "minimal",
         "atmospheric"
       ],
+      "category": "nature",
       "params": {
         "aspect": "21:9",
         "duration": "8s"
       },
       "source": {
-        "name": "queststudio",
-        "url": "https://queststudio.io/blog/runway-prompts",
-        "tier": "unverified-3rd-party"
+        "name": "Runway Gen-4 Video Prompting Guide",
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
       "id": "rw-011",
       "model": "runway-gen4",
-      "category": "product-commercial",
       "title": "手表光影漂浮",
-      "prompt": "A luxury silver watch floats and slowly rotates against a deep black background, single key light from upper right creating crisp specular highlights on the bezel. Macro detail. Subtle particles drift around it. Premium commercial style.",
+      "prompt": "A luxury silver watch suspended against a deep black background, slowly rotating in place. A crane shot moves smoothly downwards along the watch, revealing the bezel, dial, and crown in sequence. Single key light from upper right creates crisp specular highlights along the polished steel. Macro detail focus on the dial. Subtle particles drift in the surrounding darkness. Cinematic stillness, no morphing, no extra elements.",
       "tags": [
         "product",
         "watch",
         "luxury",
         "macro"
       ],
+      "category": "product-commercial",
       "params": {
         "aspect": "1:1",
         "duration": "8s"
       },
       "source": {
-        "name": "queststudio",
-        "url": "https://queststudio.io/blog/runway-prompts",
-        "tier": "unverified-3rd-party"
+        "name": "Runway Gen-4 Video Prompting Guide",
+        "url": "https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide",
+        "tier": "official"
       }
     },
     {
@@ -6732,23 +6731,23 @@
     {
       "id": "wn-005",
       "model": "wan-2.5",
-      "category": "dialogue-driven",
       "title": "Wan 双人对话（情侣晚餐）",
-      "prompt": "Entity: A couple in their 30s at a candlelit dinner table.\nScene: Cozy Italian restaurant interior, warm tungsten lighting, blurred patrons in background.\nMotion: She lifts her wine glass, smiles, says something; he laughs and reaches across the table to touch her hand.\nSound: Her voice: 'I told you we'd make it.' His warm reply: 'Every time.' Soft Italian café music, ambient cutlery clinks, gentle laughter from nearby tables.",
+      "prompt": "Entity: A man and a woman in their 30s, both in casual but elegant attire, seated across a candlelit dining table.\nScene: A vintage wood-paneled dining room with dark wooden walls and a large window revealing lush green plants outside. Sunlight streams through the window, casting gentle side lighting across the scene. The table holds bread, grapes, silver cutlery, and a gleaming tea pot. Warm tungsten ambient glow blends with the daylight.\nMotion: She lifts her wine glass slightly and looks toward him with a faint, sad smile. He exhales softly, looks down, then back up. Lips synced to dialogue. Medium two-shot, camera locked off.\nSound: The man says in a low, restrained tone: 'We can't keep pretending everything is unchanged.' The woman exhales softly, then murmurs: 'But what if forgetting hurts more than remembering?' Warm room tone, faint birdsong outside the window, no music.",
       "tags": [
         "dialogue",
         "romantic",
         "audio",
         "two-shot"
       ],
+      "category": "dialogue-driven",
       "params": {
         "aspect": "16:9",
         "duration": "10s"
       },
       "source": {
-        "name": "Wan",
-        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Alibaba Cloud Wan Prompts Recipe",
+        "url": "https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777",
+        "tier": "official"
       }
     },
     {
@@ -6776,45 +6775,45 @@
     {
       "id": "wn-007",
       "model": "wan-2.5",
-      "category": "image-to-video",
       "title": "Wan I2V 风景动起来（带音频）",
-      "prompt": "Entity: The autumn forest in the reference image.\nMotion: Camera pushes slowly forward through the trees, leaves drift down gently, sunlight rays shift slightly.\nSound: Rustling leaves, distant bird songs, soft wind through branches, no music.",
+      "prompt": "Entity: The autumn forest in the reference image, rich oranges and yellows against a backdrop of slender tree trunks.\nScene: A quiet stretch of woodland in late afternoon, low golden sunlight filtering between the trees and casting long shadows across the leaf-strewn ground.\nMotion: The camera pushes slowly forward through the trees on a steady glide. Individual leaves drift down gently, each one rotating and turning as it falls. Beams of sunlight shift subtly with the breeze, mottled patches of light moving across the forest floor.\nSound: Crisp rustling of dry leaves underfoot, light wind through branches, the distant call of a single songbird, faint creak of swaying timber. No music.",
       "tags": [
         "image-to-video",
         "nature",
         "audio",
         "atmospheric"
       ],
+      "category": "image-to-video",
       "params": {
         "aspect": "16:9",
         "duration": "8s"
       },
       "source": {
-        "name": "Wan",
-        "url": "https://www.promptus.ai/blog/wan-2-5-prompt-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Alibaba Cloud Wan Prompts Recipe",
+        "url": "https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777",
+        "tier": "official"
       }
     },
     {
       "id": "wn-008",
       "model": "wan-2.5",
-      "category": "social-viral",
       "title": "Wan TikTok 自拍解说",
-      "prompt": "Entity: A young content creator in casual hoodie holding phone selfie-style.\nScene: Trendy minimalist bedroom with neon LED strip lights.\nMotion: She talks directly to phone camera with energetic gestures, lips synced precisely.\nSound: Her excited voice: 'You guys won't believe what just happened today!' Upbeat lofi background music, faint city ambient.",
+      "prompt": "Entity: A young female content creator in her early 20s, wearing a casual hoodie, holding her phone selfie-style facing the camera directly.\nScene: A trendy minimalist bedroom with white walls and a single neon LED strip running along the ceiling, casting a soft purple-pink wash. Vertical 9:16 framing.\nMotion: She talks directly to the phone camera with energetic gestures — pointing, shrugging, raising both hands. Her facial expressions shift with the cadence of her speech. Lips synced to dialogue. Subtle handheld bob from holding the phone.\nSound: She says in a bright, conversational tone: 'Okay, so the trick I've been using all week is finally going to be in this video — stick around for the last part.' Quick, upbeat cadence, slight reverb of a small bedroom, no background music.",
       "tags": [
         "tiktok",
         "lip-sync",
         "creator",
         "vertical"
       ],
+      "category": "social-viral",
       "params": {
         "aspect": "9:16",
         "duration": "8s"
       },
       "source": {
-        "name": "Wan",
-        "url": "https://happyhorsemodel.ai/en/articles/wan-2-5-complete-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Alibaba Cloud Model Studio (Wan)",
+        "url": "https://www.alibabacloud.com/help/en/model-studio/text-to-video-prompt",
+        "tier": "official"
       }
     },
     {
@@ -6864,23 +6863,23 @@
     {
       "id": "wn-011",
       "model": "wan-2.5",
-      "category": "action",
       "title": "Wan 体育解说（带音效）",
-      "prompt": "Entity: A football player mid-stride about to take a free kick.\nScene: A floodlit stadium at night, packed stands behind him.\nMotion: He plants his foot, body twists, strikes the ball with power, follows through, ball curves into the top corner.\nSound: Crowd erupts in roar, ball impact crack, excited commentator voice: 'OH WHAT A GOAL! Absolutely magnificent!' Stadium crowd singing.",
+      "prompt": "Entity: A football player mid-stride about to take a free kick, jersey number visible, focused expression.\nScene: A floodlit stadium at night, packed stands behind him glowing with phone lights and team scarves, pristine green pitch underfoot.\nMotion: He plants his foot, body twists, strikes the ball with power. The ball curves through the air toward goal, follow-through compresses his standing knee with accurate weight. Camera tracks the ball from low behind him.\nSound: Crisp impact of boot on ball, immediate roar of the crowd swelling in pitch, an announcer's voice in mid-tempo English: 'And he steps up — that's curling, curling toward goal!' Ambient stadium chant just below the commentary, no music.",
       "tags": [
         "sports",
         "audio",
         "commentary",
         "stadium"
       ],
+      "category": "action",
       "params": {
         "aspect": "16:9",
         "duration": "10s"
       },
       "source": {
-        "name": "Wan",
-        "url": "https://www.ambienceai.com/tutorials/wan-prompting-guide",
-        "tier": "unverified-3rd-party"
+        "name": "Alibaba Cloud Wan Prompts Recipe",
+        "url": "https://www.alibabacloud.com/blog/model-studio-wan-video-generation-prompts-recipe_602777",
+        "tier": "official"
       }
     },
     {
