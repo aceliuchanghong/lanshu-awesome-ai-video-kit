@@ -9,7 +9,7 @@
 # 🎬 lanshu-awesome-ai-video-kit
 
 **An awesome curated kit for AI video prompt engineering.**
-**The most complete AI video prompt library on the web — 15 models (11 commercial + 4 open source) / 310 standalone + 110 cross-model = 420 prompts / 7 Claude Skills / 14 methodology docs**
+**The most complete AI video prompt library on the web — 15 models (11 commercial + 4 open source) / 310 standalone + 110 cross-model = 420 prompts / 7 Claude Skills / 15 methodology docs**
 
 🇨🇳 **[中文 README →](README.md)**
 
@@ -18,7 +18,7 @@
   <img alt="Models" src="https://img.shields.io/badge/models-15-8b5cf6?style=flat">
   <img alt="Prompts" src="https://img.shields.io/badge/prompts-310-f97316?style=flat">
   <img alt="Skills" src="https://img.shields.io/badge/skills-7-06b6d4?style=flat">
-  <img alt="Docs" src="https://img.shields.io/badge/methodology-14-34d399?style=flat">
+  <img alt="Docs" src="https://img.shields.io/badge/methodology-15-34d399?style=flat">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-cccccc?style=flat">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-9333ea?style=flat">
 </p>
@@ -26,7 +26,7 @@
 <p>
   <a href="#-quick-start">🚀 Quick Start</a> ·
   <a href="prompts/README.md">📚 310 Prompts</a> ·
-  <a href="methodology/README.md">📖 14 Methodology Docs</a> ·
+  <a href="methodology/README.md">📖 15 Methodology Docs</a> ·
   <a href="skills/README.md">🛠️ 7 Skills</a> ·
   <a href="tools/prompt-browser/index.html">🌐 Web Browser</a> ·
   <a href="RESOURCES.md">🔗 Resources</a>
@@ -54,7 +54,7 @@ Structured into 4 categories of practical resources:
 | Resource | Content | Best for |
 |---|---|---|
 | 📚 [prompts/](prompts/) | **310 battle-tested prompts** across 15 models / 29 scenarios, with official samples + recommended params | Copy & tweak |
-| 📖 [methodology/](methodology/) | **14 methodology SOPs**: advanced formula / storyboarding / emotion externalization / 5 model-specific guides + 6-model quick reference + **4 open source quick reference** + cross-model comparison + 12 pitfalls | Learn to "direct shots" |
+| 📖 [methodology/](methodology/) | **15 methodology SOPs**: advanced formula / storyboarding / emotion externalization / 5 model-specific guides + 6-model quick reference + **4 open source quick reference** + cross-model comparison + 12 pitfalls | Learn to "direct shots" |
 | 🛠️ [skills/](skills/) | **7 Claude Code Skills** — Seedance ×3 + HappyHorse + Kling + **model-selector** (15-model shopping advisor) + **prompt-translator** (cross-model converter) | Let Claude pick/write/fix/translate |
 | 🌐 [tools/prompt-browser/](tools/prompt-browser/) | Single-page HTML browser (15-model rainbow filter + URL state sharing + keyboard nav + Drawer details) | If you don't want to read markdown |
 
@@ -184,6 +184,7 @@ Read [methodology/](methodology/) in order:
 | 12 | [Veo formula](methodology/12-veo-公式.md) | Veo 8 elements + native audio 4-layer | 6 min |
 | 13 | [Six-model quick reference](methodology/13-六大模型公式速查.md) | Runway / Pika / Hailuo / Hunyuan / Wan / Jimeng + 11-model selection | 12 min ⭐ |
 | 14 | [Four open source quick reference](methodology/14-四大开源模型速查.md) | LTX / Mochi / CogVideoX / Higgsfield formula contrast + **15-model decision tree** | 12 min ⭐ |
+| 15 | [Seedance Masterclass](methodology/15-seedance-masterclass.md) ⭐ | 10 YouTube tutorials (500K+ views): 9-element / Timeline / character consistency 5 steps / 5 viral formats / VFX / Bullet Time / 8 templates | 15 min ⭐ |
 
 ---
 
@@ -246,7 +247,7 @@ lanshu-awesome-ai-video-kit/
 │   ├── veo/README.md               # 20 Veo prompts index
 │   └── (other 10 models)           # rw-* pk-* hl-* hy-* wn-* jm-* lt-* mo-* cg-* hg-*
 │
-├── methodology/                    # 14 methodology SOPs
+├── methodology/                    # 15 methodology SOPs
 │   ├── 01-基础公式.md ~ 08-避坑12问.md   # General + Seedance
 │   ├── 09-kling-公式.md ~ 12-veo-公式.md # Kling/Sora/Veo + cross-model
 │   ├── 13-六大模型公式速查.md      # Runway/Pika/Hailuo/Hunyuan/Wan/Jimeng + 11 selection

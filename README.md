@@ -29,7 +29,7 @@
 [![Models](https://img.shields.io/badge/Models-15-8b5cf6?style=flat-square&logo=googlegemini&logoColor=white)](#-15-模型一览)
 [![Prompts](https://img.shields.io/badge/Prompts-420-fb923c?style=flat-square)](prompts/)
 [![Skills](https://img.shields.io/badge/Claude_Skills-7-d97757?style=flat-square&logo=anthropic&logoColor=white)](skills/)
-[![Methodology](https://img.shields.io/badge/SOP-14-34d399?style=flat-square)](methodology/)
+[![Methodology](https://img.shields.io/badge/SOP-15-34d399?style=flat-square)](methodology/)
 [![Categories](https://img.shields.io/badge/Categories-29-f472b6?style=flat-square)](prompts/data/all-prompts.json)
 [![Endpoints Monitored](https://img.shields.io/badge/Auto_Monitor-32_endpoints-06b6d4?style=flat-square&logo=githubactions&logoColor=white)](.github/workflows/model-version-monitor.yml)
 
@@ -71,7 +71,7 @@
 420 条 prompt   (310 单模型最佳实践 + 110 跨模型对照矩阵)
  15 个 模型      (11 商业旗舰 + 4 开源 / 友好开源)
   7 个 Claude Skill  (含 model-selector + prompt-translator 跨模型核心)
- 14 篇 方法论 SOP    (基础公式 → 各家公式 → 决策树)
+ 15 篇 方法论 SOP    (基础公式 → 各家公式 → 决策树 → masterclass)
  29 个 场景分类      (产品 / 对话 / 物理 / I2V / 武侠 / 萌宠 / ...)
  32 个 监控端点      (每周一 09:00 北京时间自动巡检)
    3 个 Web 工具    (Liquid Glass · 零依赖单文件 HTML)
@@ -101,7 +101,7 @@ python3 serve.py 8000
 - [🚀 5 秒上手](#-5-秒上手)
 - [📦 15 模型一览](#-15-模型一览)
 - [🛠️ 7 个 Claude Code Skill](#%EF%B8%8F-7-个-claude-code-skill)
-- [📖 14 篇方法论 SOP](#-14-篇方法论-sop)
+- [📖 15 篇方法论 SOP](#-15-篇方法论-sop)
 - [🌐 3 个 Web 工具](#-3-个-web-工具)
 - [🤖 自动监控机制](#-自动监控机制)
 - [📁 目录结构](#-目录结构)
@@ -169,9 +169,9 @@ done
 
 ---
 
-## 📖 14 篇方法论 SOP
+## 📖 15 篇方法论 SOP
 
-按主题分四组:
+按主题分五组:
 
 | # | 类别 | 文档 |
 |---|---|---|
@@ -179,8 +179,9 @@ done
 | 09-12 | **三家独立公式** | Kling 三套写法 + 6 守则 / 跨 5 模型对比 / Sora 2 Shot List / Veo 3.1 8 元素 |
 | 13 | **6 大商业模型速查** | Runway / Pika / Hailuo / Hunyuan / Wan / 即梦 一锅端 |
 | 14 | **4 大开源速查** ⭐ | LTX / Mochi / CogVideoX / Higgsfield + 15 模型选型决策树 |
+| 15 | **Seedance Masterclass** ⭐ | 10 YouTube 教学(500K+ 播放):9 要素 / Timeline / 角色一致性 5 步 / 5 种爆款 / VFX / Bullet Time / 8 个模板 |
 
-> **如果只挑两篇必读**:[`02-进阶 8 要素`](methodology/02-进阶公式.md)(导演级写作框架,所有 prompt 都是它的变体)+ [`13-六大模型公式速查`](methodology/13-六大模型公式速查.md)(12 分钟拿到 6 个模型公式)。其他 12 篇按需查。
+> **如果只挑两篇必读**:[`02-进阶 8 要素`](methodology/02-进阶公式.md)(导演级写作框架,所有 prompt 都是它的变体)+ [`13-六大模型公式速查`](methodology/13-六大模型公式速查.md)(12 分钟拿到 6 个模型公式)。其他 13 篇按需查。
 
 ---
 
@@ -230,7 +231,7 @@ lanshu-awesome-ai-video-kit/
 │   ├── data/cross-model-matrix.json # 110 条跨模型对照
 │   └── {seedance,happyhorse,kling,sora,veo}/README.md
 │
-├── methodology/                    # 14 篇方法论 SOP
+├── methodology/                    # 15 篇方法论 SOP
 │   ├── 01-基础公式.md ~ 08-避坑12问.md
 │   ├── 09-kling-公式.md ~ 12-veo-公式.md
 │   ├── 13-六大模型公式速查.md

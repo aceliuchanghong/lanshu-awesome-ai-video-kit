@@ -129,7 +129,7 @@ Adds **lanshu-awesome-ai-video-kit** to the [Video] section.
 | Cross-model prompts | **110** (10 scenarios × 11 models) |
 | Total prompt assets | **420** |
 | Claude Code Skills | **7** (incl. `model-selector` and `prompt-translator`) |
-| Methodology SOPs | **14** (incl. cross-model decision trees) |
+| Methodology SOPs | **15** (incl. cross-model decision trees + Seedance Masterclass) |
 | Web tools | **3** (homepage / prompt-browser / cross-model matrix) |
 | Monitored endpoints | **32** (weekly SHA-256 hash check via GitHub Action) |
 | Issue templates | **4** (test video / new prompt / new model / config) |
