@@ -980,30 +980,6 @@
       }
     },
     {
-      "id": "hh-007",
-      "model": "happyhorse-1.0",
-      "category": "dialogue-driven",
-      "title": "韩语雨窗咖啡馆独白（原生音频）",
-      "prompt": "A Korean woman in her early 30s sits at a wooden cafe table by a rain-streaked window, speaking directly to camera in Korean with a warm, unhurried tone. Soft ambient cafe noise in the background. Shallow depth of field, warm tungsten lighting, close-up framing, speaking Korean at a natural pace.",
-      "tags": [
-        "dialogue",
-        "korean",
-        "cafe",
-        "rain",
-        "close-up",
-        "native-audio"
-      ],
-      "params": {
-        "aspect": "9:16",
-        "duration": "8s"
-      },
-      "source": {
-        "name": "Imagine.art",
-        "url": "https://www.imagine.art/blogs/happyhorse-1-0-guide",
-        "tier": "reputable-3rd-party"
-      }
-    },
-    {
       "id": "hh-008",
       "model": "happyhorse-1.0",
       "category": "product-commercial",
@@ -2132,6 +2108,30 @@
       "source": {
         "name": "Atlas Cloud",
         "url": "https://www.atlascloud.ai/blog/ai-updates/happy-horse1-is-now-on-atlas-cloud",
+        "tier": "reputable-3rd-party"
+      }
+    },
+    {
+      "id": "hh-057",
+      "model": "happyhorse-1.0",
+      "category": "dialogue-driven",
+      "title": "韩语雨窗咖啡馆独白（原生音频）",
+      "prompt": "A Korean woman in her early 30s sits at a wooden cafe table by a rain-streaked window, speaking directly to camera in Korean with a warm, unhurried tone. Soft ambient cafe noise in the background. Shallow depth of field, warm tungsten lighting, close-up framing, speaking Korean at a natural pace.",
+      "tags": [
+        "dialogue",
+        "korean",
+        "cafe",
+        "rain",
+        "close-up",
+        "native-audio"
+      ],
+      "params": {
+        "aspect": "9:16",
+        "duration": "8s"
+      },
+      "source": {
+        "name": "Imagine.art",
+        "url": "https://www.imagine.art/blogs/happyhorse-1-0-guide",
         "tier": "reputable-3rd-party"
       }
     },
