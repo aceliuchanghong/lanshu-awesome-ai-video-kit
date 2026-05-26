@@ -122,13 +122,13 @@ python3 serve.py 8000
 | **Seedance 2.0** ⭐ | 字节 · 火山方舟 | **综合 SOTA · 53 页官方 PDF · 8 要素公式 · 即梦底层** | 60s 2K | ★★★ | ★★★ | ★★★ |
 | **HappyHorse 1.0** | 阿里巴巴 | 紧凑短片专精 + 30-55 词 + 8s 时序节拍 + 原生环境音 | 15s（默认 5s） | ★★★ | ★★ | ★★ |
 | **Kling 3.0** | 快手 · 可灵 | **S 级** · 中文 + 图生视频 + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ |
-| **Veo 3.1** | Google DeepMind | **S 级** · 原生音频最强 + 多人对话 | 60s | ★★ | ★★★★★ | ★★★ |
-| **Sora 2** ⚠️ | OpenAI | 电影艺术片 + Cameos · **⚠️ web/app 已停 2026-04-26** | 20s | ★★ | ★★★★ | ★★★★★ |
-| **Runway Gen-4.5 / Aleph** | Runway | **ELO 综合第一** + Aleph 视频编辑独家 | 30s | ★★★ | — | ★★★ |
+| **Veo 3.1** | Google DeepMind | **S 级** · 原生音频最强 + 多人对话 | 148s chained | ★★ | ★★★★★ | ★★★ |
+| **Sora 2** ⚠️ | OpenAI | 电影艺术片 + Cameos · **⚠️ web/app 已停 2026-04-26** | 25s (Pro) | ★★ | ★★★★ | ★★★★★ |
+| **Runway Gen-4.5 / Aleph** | Runway | **ELO 综合第一** + Aleph 视频编辑独家 | 10s / Aleph 5s | ★★★ | — | ★★★ |
 | **Pika 2.5** | Pika Labs | 性价比之王 + Pikaffects 15+ 创意特效 | 25s | ★★ | ★ | ★★ |
 | **Hailuo 02** | MiniMax | **物理仿真业界第一** + 1080p | 10s | ★★★ | — | ★★★★★ |
 | **Hunyuan Video 1.5** | 腾讯 | 开源最强商业版(13B/8.3B)+ LoRA + RTX 4090 可跑 | 10s | ★★★★ | — | ★★★ |
-| **Wan 2.7** | 阿里通义 | **数字人 lip-sync 最准** · Wan 2.6 OSS / 2.7 最新 | 10s | ★★★ | ★★★★★ | ★★★ |
+| **Wan 2.7** | 阿里通义 | **数字人 lip-sync 最准** · Wan 2.6 OSS / 2.7 最新 | 15s | ★★★ | ★★★★★ | ★★★ |
 | **即梦 AI** | 字节剪映 | 中文最强 + 剪映集成(底层 Seedance 2.0) | 60s 2K | ★★★★★ | ★★★ | ★★★ |
 
 ### 🔓 4 大开源 / 开源友好
@@ -138,7 +138,7 @@ python3 serve.py 8000
 | **LTX-Video 0.9.7** | Apache 2.0 | **实时生成** · 5s 视频 5s 内出 · 30 FPS | 10s |
 | **Mochi 1** | Apache 2.0 | **10B 最大开源** AsymmDiT · 强 prompt 遵循 | 5.4s |
 | **CogVideoX 5B / 1.5** | Apache 2.0 | 智谱清华出品 · 226 token 长 prompt · T2V/I2V 双权重 | 10s |
-| **Higgsfield Soul / DoP** | 部分开源 | **Soul ID 角色一致性** + AI Director 60-90s 智能分镜 | 60-90s |
+| **Higgsfield Soul / DoP** | 部分开源 | **Soul ID 角色一致性** + Soul Cinema | 15s / 60s 长片 |
 
 → 不会选?让 Claude 帮你 → [skills/model-selector](skills/model-selector/SKILL.md)
 → 详细对比 → [methodology/13-六大模型公式速查.md](methodology/13-六大模型公式速查.md) + [methodology/14-四大开源模型速查.md](methodology/14-四大开源模型速查.md)

@@ -87,13 +87,13 @@ Structured into 4 categories of practical resources:
 | **Seedance 2.0** ⭐ | ByteDance / Volcano Ark | **Overall SOTA · 53-page official PDF · 8-element formula · powers Jimeng** | 60s 2K | ★★★ | ★★★ | ★★★ | — | ✓ |
 | **HappyHorse 1.0** | Alibaba | Tight short-form specialist · 30-55 words · 8s beat structure · native ambient audio | 15s (default 5s) | ★★★ | ★★ | ★★ | — | ✓ |
 | **Kling 3.0** | Kuaishou | **S-tier** · CJK + I2V + 48fps 1080p + lip-sync | 2m | ★★★★★ | ★★★★ | ★★★★ | ✓ | ✓ |
-| **Veo 3.1** | Google DeepMind | **S-tier** · best native audio + multi-speaker dialogue | 60s | ★★ | ★★★★★ | ★★★ | — | △ |
-| **Sora 2** ⚠️ | OpenAI | Cinematic + Cameos · **⚠️ web/app sunset 2026-04-26** | 20s | ★★ | ★★★★ | ★★★★★ | — | △ |
-| **Runway Gen-4.5 / Aleph** | Runway | **#1 ELO overall** + Aleph edit-only features | 30s | ★★★ | — | ★★★ | ★★★★★ | ✓ |
+| **Veo 3.1** | Google DeepMind | **S-tier** · best native audio + multi-speaker dialogue | 148s chained | ★★ | ★★★★★ | ★★★ | — | △ |
+| **Sora 2** ⚠️ | OpenAI | Cinematic + Cameos · **⚠️ web/app sunset 2026-04-26** | 25s (Pro) | ★★ | ★★★★ | ★★★★★ | — | △ |
+| **Runway Gen-4.5 / Aleph** | Runway | **#1 ELO overall** + Aleph edit-only features | 10s / Aleph 5s | ★★★ | — | ★★★ | ★★★★★ | ✓ |
 | **Pika 2.5** | Pika Labs | **Best price $8/mo** + 15+ Pikaffects | 25s | ★★ | ★ | ★★ | — | ✓ |
 | **Hailuo 02** | MiniMax | **#1 physics simulation** + 1080p (also 2.3 budget) | 10s | ★★★ | — | ★★★★★ | — | ✓ |
 | **Hunyuan Video 1.5** | Tencent | **Strongest open source** (13B/8.3B) + LoRA + runs on RTX 4090 | 10s | ★★★★ | — | ★★★ | ✓ | ✓ |
-| **Wan 2.7** | Alibaba Tongyi | **#1 digital-human lip-sync** · 2.6 OSS stable / 2.7 latest | 10s | ★★★ | ★★★★★ | ★★★ | ✓ | ✓ |
+| **Wan 2.7** | Alibaba Tongyi | **#1 digital-human lip-sync** · 2.6 OSS stable / 2.7 latest | 15s | ★★★ | ★★★★★ | ★★★ | ✓ | ✓ |
 | **Jimeng AI** | ByteDance CapCut | **Strongest CJK + CapCut native** (powered by Seedance 2.0) | 60s 2K | ★★★★★ | ★★★ | ★★★ | — | ✓ |
 
 ### 🔓 4 Open Source / Open-Friendly (local deploy + LoRA + extensible)
@@ -103,7 +103,7 @@ Structured into 4 categories of practical resources:
 | **LTX-Video 0.9.7** | Lightricks | **Real-time generation** — 5s video in 5s, 30FPS | Apache 2.0 | 10s | 1216×704 |
 | **Mochi 1** | Genmo | **Largest open source** (10B AsymmDiT) + **strong prompt adherence** | Apache 2.0 | 5.4s | 480p |
 | **CogVideoX 5B / 1.5** | Zhipu · Tsinghua | China-made + **226-token long prompt** + dedicated I2V weights | Apache 2.0 | 10s | 1360×768 |
-| **Higgsfield Soul / DoP** | Higgsfield AI | **Industry-best Soul ID character consistency** + AI Director 60-90s | Partial OSS | 60-90s | 1080p+ |
+| **Higgsfield Soul / DoP** | Higgsfield AI | **Industry-best Soul ID character consistency** + Soul Cinema | Partial OSS | 15s / 60s long-form | 1080p+ |
 
 → Not sure which to pick? Let Claude help → [skills/model-selector](skills/model-selector/SKILL.md) (covers all 15)
 → Commercial decision tree → [methodology/10](methodology/10-跨模型对比.md) + [methodology/13](methodology/13-六大模型公式速查.md)
@@ -142,7 +142,7 @@ Filter by scenario / model / tags in the sidebar → hover cards for preview →
 - 🔓 **LTX-Video 0.9.7 · 8 prompts** — JSON `lt-*` · single-paragraph prose + real-time + screenplay dialogue format
 - 🔓 **Mochi 1 · 8 prompts** — JSON `mo-*` · free prose + physics details (time-lapse / shattering / arcing)
 - 🔓 **CogVideoX 5B · 8 prompts** — JSON `cg-*` · long prompts (226 tokens) + T2V/I2V dual mode
-- 🔓 **Higgsfield Soul · 8 prompts** — JSON `hg-*` · short directives + Soul ID + DoP templates + AI Director 60-90s
+- 🔓 **Higgsfield Soul · 8 prompts** — JSON `hg-*` · short directives + Soul ID + DoP templates + Soul Cinema 15s / 60s long-form
 
 ### I want Claude to write prompts for me
 
