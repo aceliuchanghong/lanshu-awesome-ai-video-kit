@@ -38,6 +38,12 @@
 - [DeepMind Veo Prompt Guide](https://deepmind.google/models/veo/prompt-guide/) ⭐ 必读
 - [Google Cloud · Ultimate Prompting Guide for Veo 3.1](https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-veo-3-1)
 
+### Gemini Omni（Google AI / DeepMind, 2026-05 新发布）⭐ NEW
+- [Google AI · Mastering Gemini Omni: The Ultimate Video Prompting Guide](https://x.com/GoogleAI/status/2059381218660270435) ⭐ 必读 — Google AI 官方推文,5 大 prompting tips + 完整样板
+- 试用平台:[Gemini App](https://gemini.google.com/) · [Flow by Google](https://flow.google.com/) · [Google Flow Music](https://flow.google.com/music) · YouTube Shorts/Create
+- 核心差异化:跨模态(any-input-to-anything) · 文字渲染业界强项 · 迭代编辑 targeted updates · 中途改动作保连续性 · Real-World 知识利用
+- 本仓库 [methodology/16-gemini-omni-公式.md](methodology/16-gemini-omni-公式.md) — 5 tips 详解 + 与 Veo 3.1/Sora 2 对比
+
 ### Runway Gen-4 / Aleph
 - [Runway Gen-4 Video Prompting Guide](https://help.runwayml.com/hc/en-us/articles/39789879462419-Gen-4-Video-Prompting-Guide) ⭐ 官方
 - [Runway Aleph Prompting Guide](https://help.runwayml.com/hc/en-us/articles/43277392678803-Aleph-Prompting-Guide) ⭐ 官方
