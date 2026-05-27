@@ -5,7 +5,7 @@
 <link rel="icon" type="image/svg+xml" href="/favicon.svg">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>lanshu-awesome-ai-video-kit · AI 视频提示词工程库(16 模型 / 321 提示词)</title>
-<meta name="description" content="全网最完整的 AI 视频提示词工程库 — 覆盖 Sora、Veo、Kling、Runway、Pika、Hailuo、Hunyuan、Seedance、HappyHorse、Wan、即梦 + 4 大开源模型(LTX/Mochi/CogVideoX/Higgsfield) 15 模型完整收录。321 实测提示词 + 7 Claude Skill + 16 篇方法论。">
+<meta name="description" content="全网最完整的 AI 视频提示词工程库 — 覆盖 Sora、Veo、Kling、Runway、Pika、Hailuo、Hunyuan、Seedance、HappyHorse、Wan、即梦、Gemini Omni + 4 大开源模型(LTX/Mochi/CogVideoX/Higgsfield) 16 模型完整收录。321 实测提示词 + 7 Claude Skill + 16 篇方法论。">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -787,6 +787,7 @@
     </h1>
     <p class="hero-sub">
       11 商业:Sora · Veo · Kling · Runway · Pika · Hailuo · Hunyuan · Seedance · HappyHorse · Wan · 即梦
+      <br>+ <b style="color:#818cf8">⭐ Gemini Omni</b>(2026-05 新)
       <br>4 开源:LTX-Video · Mochi 1 · CogVideoX 5B · Higgsfield Soul
       <br>—— 15 大模型完整方法论 + 一键可复制的实测提示词 + Claude Code 自动化技能。
     </p>
@@ -824,7 +825,7 @@
     <div class="section-head">
       <div class="section-eyebrow">全球主流</div>
       <h2 class="section-title">15 大模型完整收录</h2>
-      <p class="section-sub">11 商业旗舰(中美顶级厂商) + 4 开源底座(Apache 2.0 三选一 + Higgsfield Soul ID),附官方文档 + 12-20 条精选提示词。</p>
+      <p class="section-sub">12 商业旗舰(中美顶级厂商,新增 Google Gemini Omni ⭐) + 4 开源底座(Apache 2.0 三选一 + Higgsfield Soul ID),附官方文档 + 10-94 条精选提示词。</p>
     </div>
     <div class="models-grid" id="modelsGrid"></div>
   </div>
@@ -970,6 +971,7 @@ const MODELS = [
   { id: 'hunyuan-video', name: 'Hunyuan Video 1.5', vendor: '腾讯混元', dot: '#93c5fd', pitch: '开源最强(13B / 1.5 仅 8.3B)。RTX 4090 可跑 + LoRA 训练 + 跨维度生成 + ComfyUI 集成。', tags: ['开源', 'LoRA', '本地部署'], url: 'https://github.com/Tencent-Hunyuan/HunyuanVideo', browseUrl: 'tools/prompt-browser/#model=hunyuan-video' },
   { id: 'wan-2.5', name: 'Wan 2.7 (通义万相)', vendor: '阿里巴巴', dot: '#fcd34d', pitch: '数字人 lip-sync 业界最准。Wan 2.6 开源稳定版 / Wan 2.7 最新(更长 prompt + 更锐控制)。', tags: ['数字人', 'Wan 2.6 开源', 'Wan 2.7 最新'], url: 'https://www.alibabacloud.com/help/en/model-studio/', browseUrl: 'tools/prompt-browser/#model=wan-2.5' },
   { id: 'jimeng-3', name: '即梦 AI', vendor: '字节 · 剪映 (Seedance 2.0 引擎)', dot: '#f9a8d4', pitch: '字节剪映 C 端产品,底层即 Seedance 2.0。中式美学 + 8+ 语言唇形对齐 + 60s 2K。', tags: ['Seedance 2.0', '中式美学', '剪映集成'], url: 'https://jimeng.jianying.com/', browseUrl: 'tools/prompt-browser/#model=jimeng-3' },
+  { id: 'gemini-omni', name: 'Gemini Omni (Omni Flash) ⭐NEW', vendor: 'Google AI / DeepMind', dot: '#818cf8', pitch: '2026-05 新发布跨模态统一模型(any-input-to-anything)。🔥 迭代编辑 targeted updates 不重写 + 文字渲染业界强项 + Real-World 锚点 + 中途改动作保连续性。', tags: ['⭐ NEW', '迭代编辑', '文字渲染', '跨模态'], url: 'https://x.com/GoogleAI/status/2059381218660270435', browseUrl: 'tools/prompt-browser/#model=gemini-omni' },
   // ===== 4 大开源 =====
   { id: 'ltx-video', name: 'LTX-Video 0.9.7', vendor: 'Lightricks (Apache 2.0)', dot: '#a3e635', pitch: '实时生成颠覆性 — 5 秒视频在 5 秒内生成,30FPS 1216×704。迭代式实时改 prompt 的唯一选择。', tags: ['实时', 'Apache 2.0', '本地部署'], url: 'https://github.com/Lightricks/LTX-Video', browseUrl: 'tools/prompt-browser/#model=ltx-video' },
   { id: 'mochi-1', name: 'Mochi 1', vendor: 'Genmo (Apache 2.0)', dot: '#fb7185', pitch: '10B 最大开源 AsymmDiT。强 prompt 遵循 — 你写啥它出啥,几乎不偏。物理细节越精确效果越准。', tags: ['10B 最大', '强遵循', 'Apache 2.0'], url: 'https://github.com/genmoai/mochi', browseUrl: 'tools/prompt-browser/#model=mochi-1' },

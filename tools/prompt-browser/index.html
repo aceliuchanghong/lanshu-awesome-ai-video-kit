@@ -69,6 +69,8 @@
     --model-cg-soft: rgba(163, 230, 53, 0.12);
     --model-hg: #fb7185;
     --model-hg-soft: rgba(251, 113, 133, 0.12);
+    --model-gm: #818cf8;
+    --model-gm-soft: rgba(129, 140, 248, 0.12);
 
     /* Status */
     --success: #34d399;
@@ -441,6 +443,7 @@
   .model-dot.mo { background: var(--model-mo); color: var(--model-mo); }
   .model-dot.cg { background: var(--model-cg); color: var(--model-cg); }
   .model-dot.hg { background: var(--model-hg); color: var(--model-hg); }
+  .model-dot.gm { background: var(--model-gm); color: var(--model-gm); }
   .model-label { flex: 1; }
   .model-count {
     font-size: 11px;
@@ -637,6 +640,7 @@
   .meta-pill.model.mo { background: var(--model-mo-soft); color: var(--model-mo); }
   .meta-pill.model.cg { background: var(--model-cg-soft); color: var(--model-cg); }
   .meta-pill.model.hg { background: var(--model-hg-soft); color: var(--model-hg); }
+  .meta-pill.model.gm { background: var(--model-gm-soft); color: var(--model-gm); }
 
   .card-tags {
     display: flex;
@@ -1086,7 +1090,7 @@
 <section class="hero">
   <div class="hero-text">
     <div class="hero-title">最全的 AI 视频提示词工程库 <span class="accent">· 16 模型 · 321 精选</span></div>
-    <div class="hero-sub">覆盖商业 11 + 开源 4 — Sora · Veo · Kling · Runway · Pika · Hailuo · Hunyuan · Seedance · HappyHorse · Wan · 即梦 + LTX · Mochi · CogVideoX · Higgsfield。<a href="../../methodology/" target="_blank">14 篇方法论 SOP</a> + <a href="../../skills/" target="_blank">7 个 Claude Skill</a>。<kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">/</kbd> 搜索 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">j</kbd> <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">k</kbd> 导航 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">Enter</kbd> 详情 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">c</kbd> 复制</div>
+    <div class="hero-sub">覆盖商业 12 + 开源 4 — Sora · Veo · <b style="color:var(--model-gm)">Gemini Omni</b> · Kling · Runway · Pika · Hailuo · Hunyuan · Seedance · HappyHorse · Wan · 即梦 + LTX · Mochi · CogVideoX · Higgsfield。<a href="../../methodology/" target="_blank">16 篇方法论 SOP</a> + <a href="../../skills/" target="_blank">7 个 Claude Skill</a>。<kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">/</kbd> 搜索 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">j</kbd> <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">k</kbd> 导航 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">Enter</kbd> 详情 · <kbd style="font-family:'JetBrains Mono';font-size:11px;background:var(--glass-hover);border:1px solid var(--glass-border);padding:1px 6px;border-radius:4px;color:var(--text-secondary)">c</kbd> 复制</div>
   </div>
   <div class="hero-stats">
     <div class="hero-stat"><div class="hero-stat-num" id="heroPrompts">—</div><div class="hero-stat-label">提示词</div></div>
@@ -1167,7 +1171,8 @@ const MODEL_META = {
   'ltx-video': { short: 'LTX', cls: 'lt', dot: 'lt' },
   'mochi-1': { short: 'Mochi', cls: 'mo', dot: 'mo' },
   'cogvideox-5b': { short: 'CogVideoX', cls: 'cg', dot: 'cg' },
-  'higgsfield-soul': { short: 'Higgsfield', cls: 'hg', dot: 'hg' }
+  'higgsfield-soul': { short: 'Higgsfield', cls: 'hg', dot: 'hg' },
+  'gemini-omni': { short: 'Gemini Omni', cls: 'gm', dot: 'gm' }
 };
 
 const state = {
@@ -1264,7 +1269,8 @@ function renderFilters() {
     { id: 'ltx-video', label: 'LTX-Video', dot: 'lt' },
     { id: 'mochi-1', label: 'Mochi 1', dot: 'mo' },
     { id: 'cogvideox-5b', label: 'CogVideoX 5B', dot: 'cg' },
-    { id: 'higgsfield-soul', label: 'Higgsfield', dot: 'hg' }
+    { id: 'higgsfield-soul', label: 'Higgsfield', dot: 'hg' },
+    { id: 'gemini-omni', label: 'Gemini Omni ⭐', dot: 'gm' }
   ];
   const modelOpts = [{ id: 'all', label: '全部', dot: 'all', count: prompts.length }]
     .concat(modelDefs.map(m => ({ ...m, count: prompts.filter(p => p.model === m.id).length })));
