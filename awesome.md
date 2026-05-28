@@ -11,19 +11,19 @@
 ### English (concise)
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - Curated AI video prompt engineering kit covering 16 models (Sora / Veo / Kling / Runway / Pika / Seedance / Hunyuan / Wan / Jimeng + 4 open source) with 429 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills and 19 methodology docs.
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - Curated AI video prompt engineering kit covering 16 models (Sora / Veo / Kling / Runway / Pika / Seedance / Hunyuan / Wan / Jimeng + 4 open source) with 430 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills and 20 methodology docs.
 ```
 
 ### English (expanded — for "Resources" sections)
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - The most complete AI video prompt library on the web. 12 commercial flagships + 4 open source models, 429 standalone prompts + 110 cross-model matrix (10 scenarios × 11 models), 7 Claude Code Skills including a `model-selector` (15-model shopping advisor) and a `prompt-translator` (cross-model converter based on 110-prompt baseline), 15 methodology SOPs, and a weekly GitHub Action auto-monitoring 32 official endpoints for model version drift.
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - The most complete AI video prompt library on the web. 12 commercial flagships + 4 open source models, 430 standalone prompts + 110 cross-model matrix (10 scenarios × 11 models), 7 Claude Code Skills including a `model-selector` (15-model shopping advisor) and a `prompt-translator` (cross-model converter based on 110-prompt baseline), 15 methodology SOPs, and a weekly GitHub Action auto-monitoring 32 official endpoints for model version drift.
 ```
 
 ### 中文
 
 ```markdown
-- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - 全网最全的 AI 视频提示词工程库,覆盖 15 大模型(12 商业 + 4 开源),429 条实测提示词 + 110 条跨模型对照 + 7 个 Claude Code Skill + 19 篇方法论,GitHub Action 每周自动监控 27 个官方端点。
+- [lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) - 全网最全的 AI 视频提示词工程库,覆盖 15 大模型(12 商业 + 4 开源),430 条实测提示词 + 110 条跨模型对照 + 7 个 Claude Code Skill + 20 篇方法论,GitHub Action 每周自动监控 27 个官方端点。
 ```
 
 ---
@@ -39,7 +39,7 @@ Submit this to:
 | [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | "Video" section | 15 models with prompting guides, cross-model matrix |
 | [awesome-chinese-llm](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) | "视频生成" / Video Generation | Strong CJK coverage (Seedance/Kling/Wan/Hunyuan/Jimeng + CogVideoX) |
 | [awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) | Vertical tools | Skills act as composable agents for Claude |
-| [awesome-llm-prompts](https://github.com/promptslab/Awesome-Prompt-Engineering) | "Prompt Engineering" → Video | 539 prompts with model-specific formulas |
+| [awesome-llm-prompts](https://github.com/promptslab/Awesome-Prompt-Engineering) | "Prompt Engineering" → Video | 540 prompts with model-specific formulas |
 | [awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion) | "Video models" | 4 open source models with local-deploy guides |
 
 ---
@@ -71,7 +71,7 @@ Adherence to [awesome.re criteria](https://github.com/sindresorhus/awesome/blob/
 ```html
 <a href="https://github.com/cclank/lanshu-awesome-ai-video-kit">
   <img alt="Models" src="https://img.shields.io/badge/models-15-8b5cf6?style=flat">
-  <img alt="Prompts" src="https://img.shields.io/badge/prompts-539-f97316?style=flat">
+  <img alt="Prompts" src="https://img.shields.io/badge/prompts-540-f97316?style=flat">
   <img alt="Skills" src="https://img.shields.io/badge/skills-7-06b6d4?style=flat">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-cccccc?style=flat">
 </a>
@@ -100,7 +100,7 @@ Adds **lanshu-awesome-ai-video-kit** to the [Video] section.
 
 ## Description
 
-[lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) is a curated, actively-maintained kit for AI video prompt engineering. It covers 15 models (11 commercial + 4 open source), 429 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills, and 19 methodology SOPs. A GitHub Action monitors 32 official endpoints weekly and auto-files issues on version drift.
+[lanshu-awesome-ai-video-kit](https://github.com/cclank/lanshu-awesome-ai-video-kit) is a curated, actively-maintained kit for AI video prompt engineering. It covers 15 models (11 commercial + 4 open source), 430 battle-tested prompts, 110 cross-model comparisons, 7 Claude Code Skills, and 20 methodology SOPs. A GitHub Action monitors 32 official endpoints weekly and auto-files issues on version drift.
 
 ## Checklist
 
@@ -125,11 +125,11 @@ Adds **lanshu-awesome-ai-video-kit** to the [Video] section.
 | Metric | Value |
 |---|---|
 | Models covered | **15** (11 commercial + 4 open source) |
-| Standalone prompts | **429** (with model-specific formulas + recommended params) |
+| Standalone prompts | **430** (with model-specific formulas + recommended params) |
 | Cross-model prompts | **110** (10 scenarios × 11 models) |
-| Total prompt assets | **539** |
+| Total prompt assets | **540** |
 | Claude Code Skills | **7** (incl. `model-selector` and `prompt-translator`) |
-| Methodology SOPs | **19** (incl. Seedance Masterclass + Round 3 + HappyHorse + Kling + Gemini Omni + cross-model decision trees) |
+| Methodology SOPs | **20** (incl. Seedance Masterclass + Round 3 + HappyHorse + Kling + Gemini Omni + Realistic Character Consistency + cross-model decision trees) |
 | Web tools | **3** (homepage / prompt-browser / cross-model matrix) |
 | Monitored endpoints | **32** (weekly SHA-256 hash check via GitHub Action) |
 | Issue templates | **4** (test video / new prompt / new model / config) |

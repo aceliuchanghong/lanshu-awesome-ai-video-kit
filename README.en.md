@@ -9,24 +9,24 @@
 # 🎬 lanshu-awesome-ai-video-kit
 
 **An awesome curated kit for AI video prompt engineering.**
-**The most complete AI video prompt library on the web — 15 models (11 commercial + 4 open source) / 429 standalone + 110 cross-model = 539 prompts / 7 Claude Skills / 19 methodology docs**
+**The most complete AI video prompt library on the web — 15 models (11 commercial + 4 open source) / 430 standalone + 110 cross-model = 540 prompts / 7 Claude Skills / 20 methodology docs**
 
 🇨🇳 **[中文 README →](README.md)**
 
 <p>
   <img alt="Awesome" src="https://img.shields.io/badge/-Awesome-fc60a8?style=flat&logo=awesome-lists&logoColor=white">
   <img alt="Models" src="https://img.shields.io/badge/models-15-8b5cf6?style=flat">
-  <img alt="Prompts" src="https://img.shields.io/badge/prompts-429-f97316?style=flat">
+  <img alt="Prompts" src="https://img.shields.io/badge/prompts-430-f97316?style=flat">
   <img alt="Skills" src="https://img.shields.io/badge/skills-7-06b6d4?style=flat">
-  <img alt="Docs" src="https://img.shields.io/badge/methodology-19-34d399?style=flat">
+  <img alt="Docs" src="https://img.shields.io/badge/methodology-20-34d399?style=flat">
   <img alt="License" src="https://img.shields.io/badge/license-MIT-cccccc?style=flat">
   <img alt="PRs Welcome" src="https://img.shields.io/badge/PRs-welcome-9333ea?style=flat">
 </p>
 
 <p>
   <a href="#-quick-start">🚀 Quick Start</a> ·
-  <a href="prompts/README.md">📚 429 Prompts</a> ·
-  <a href="methodology/README.md">📖 19 Methodology Docs</a> ·
+  <a href="prompts/README.md">📚 430 Prompts</a> ·
+  <a href="methodology/README.md">📖 20 Methodology Docs</a> ·
   <a href="skills/README.md">🛠️ 7 Skills</a> ·
   <a href="tools/prompt-browser/index.html">🌐 Web Browser</a> ·
   <a href="RESOURCES.md">🔗 Resources</a>
@@ -53,8 +53,8 @@ Structured into 4 categories of practical resources:
 
 | Resource | Content | Best for |
 |---|---|---|
-| 📚 [prompts/](prompts/) | **429 battle-tested prompts** across 16 models / 29 scenarios, with official samples + recommended params | Copy & tweak |
-| 📖 [methodology/](methodology/) | **19 methodology SOPs**: advanced formula / storyboarding / emotion externalization / 5 model-specific guides + 6-model quick reference + **4 open source quick reference** + cross-model comparison + 12 pitfalls | Learn to "direct shots" |
+| 📚 [prompts/](prompts/) | **430 battle-tested prompts** across 16 models / 29 scenarios, with official samples + recommended params | Copy & tweak |
+| 📖 [methodology/](methodology/) | **20 methodology SOPs**: advanced formula / storyboarding / emotion externalization / 5 model-specific guides + 6-model quick reference + **4 open source quick reference** + cross-model comparison + 12 pitfalls | Learn to "direct shots" |
 | 🛠️ [skills/](skills/) | **7 Claude Code Skills** — Seedance ×3 + HappyHorse + Kling + **model-selector** (15-model shopping advisor) + **prompt-translator** (cross-model converter) | Let Claude pick/write/fix/translate |
 | 🌐 [tools/prompt-browser/](tools/prompt-browser/) | Single-page HTML browser (15-model rainbow filter + URL state sharing + keyboard nav + Drawer details) | If you don't want to read markdown |
 
@@ -130,7 +130,7 @@ Filter by scenario / model / tags in the sidebar → hover cards for preview →
 
 - [Seedance 2.0 · 114 prompts](prompts/seedance/README.md) — commercials / social viral / cinematic / action / sports / nature / ASMR / comedy / craft
 - [HappyHorse 1.0 · 90 prompts](prompts/happyhorse/README.md) — 8s tight beats / product / portrait / action / cinematic / nature
-- [Kling 3.0 · 71 prompts](prompts/kling/README.md) — product / cinematic / action / **viral transform** / music video / experimental / gaming / **image-to-video specialty**
+- [Kling 3.0 · 72 prompts](prompts/kling/README.md) — product / cinematic / action / **viral transform** / music video / experimental / gaming / **image-to-video specialty**
 - [Sora 2 · 20 prompts](prompts/sora/README.md) — incl. OpenAI Cookbook official Shot List & parameterized templates
 - [Veo 3.1 · 20 prompts](prompts/veo/README.md) — incl. Google DeepMind official native audio dialogue templates
 - **Runway Gen-4.5 / Aleph · 12 prompts** — JSON `rw-*` · Aleph editing ★ #1 ELO overall
@@ -189,6 +189,7 @@ Read [methodology/](methodology/) in order:
 | 17 | [HappyHorse Masterclass](methodology/17-happyhorse-masterclass.md) ⭐ | 14 YouTube tutorials: 6-element formula + 20-word single-shot + emotion-to-physics + @tag Omni Reference + Storyboard 45s + 11 pitfalls + 33 prompts | 12 min ⭐ |
 | 18 | [Kling Masterclass](methodology/18-kling-masterclass.md) ⭐ | 25 YouTube channels (6M+ views): 5-element + Constraint Sandwich (O1) + Multi-Shot 6 shots/15s + Motion Brush/Library + 3×3 grid + Character Sheet + OmniEdit + 56 prompts | 18 min ⭐ |
 | 19 | [Seedance Round 3](methodology/19-seedance-masterclass-round3.md) ⭐ | 8 new YouTube tutorials: 3-type reference + CapCut Video Studio + AI Anime 4-step + 3×3 grid + video extend 30s + 19 prompts | 10 min ⭐ |
+| 20 | [Realistic Character Consistency](methodology/20-realistic-character-consistency.md) ⭐NEW | 20 YouTube tutorials (5M+ views): realistic portrait 5-part formula + Character Sheet + Omni Reference + 3×3 grid + Face Swap + Dan Kieft Prompt Pack + MidJourney→Nano Banana→Kling/VEO full pipeline | 15 min ⭐ |
 
 ---
 
@@ -217,7 +218,7 @@ See [skills/README.md](skills/README.md) for the decision tree.
 | [Cross-Model Matrix](tools/cross-model/index.html) | 10 scenarios × 11 commercial models = 110 cross-model prompts + video slots | `tools/cross-model/` |
 
 Features:
-- **Hero stats**: 429 / 16 / 7 / 19 live counts
+- **Hero stats**: 430 / 16 / 7 / 20 live counts
 - **15-model rainbow filter** — each model has its own glowing color dot
 - **3D filtering**: model + category + tags (multi-select)
 - **Keyword search** — title / prompt body / tags / notes
@@ -241,7 +242,7 @@ lanshu-awesome-ai-video-kit/
 ├── awesome.md                      # awesome-list submission entry
 ├── LICENSE                         # MIT
 │
-├── prompts/                        # 429 prompts (16 models)
+├── prompts/                        # 430 prompts (16 models)
 │   ├── data/all-prompts.json       # Single source of truth (web tools consume this)
 │   ├── data/cross-model-matrix.json # 110 cross-model prompts (10 × 11)
 │   ├── seedance/README.md          # 64 Seedance prompts index
@@ -251,7 +252,7 @@ lanshu-awesome-ai-video-kit/
 │   ├── veo/README.md               # 20 Veo prompts index
 │   └── (other 10 models)           # rw-* pk-* hl-* hy-* wn-* jm-* lt-* mo-* cg-* hg-*
 │
-├── methodology/                    # 19 methodology SOPs
+├── methodology/                    # 20 methodology SOPs
 │   ├── 01-基础公式.md ~ 08-避坑12问.md   # General + Seedance
 │   ├── 09-kling-公式.md ~ 12-veo-公式.md # Kling/Sora/Veo + cross-model
 │   ├── 13-六大模型公式速查.md      # Runway/Pika/Hailuo/Hunyuan/Wan/Jimeng + 11 selection

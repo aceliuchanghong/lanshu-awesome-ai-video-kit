@@ -1,6 +1,6 @@
 # 方法论 / 写作 SOP
 
-把火山方舟官方 53 页 PDF 指南 + Kling 官方文档 + 8 大社区测评 + **4 大开源模型仓库手册** + **10 个 YouTube 教学视频实战社区**的经验,精炼成 **19 篇**可直接对照执行的 SOP。
+把火山方舟官方 53 页 PDF 指南 + Kling 官方文档 + 8 大社区测评 + **4 大开源模型仓库手册** + **10 个 YouTube 教学视频实战社区**的经验,精炼成 **20 篇**可直接对照执行的 SOP。
 
 ## 推荐阅读顺序
 
@@ -52,6 +52,12 @@
 | 17 | [HappyHorse Masterclass](17-happyhorse-masterclass.md) ⭐ | 14 YouTube 教学:6 要素黄金公式 + 20 词单镜 + 情绪转物理动作 + @tag Omni Reference + 多镜头 SHOT 时间码 + AUDIO 块 7 语言 lip-sync + Storyboard 45s + 11 条避坑 + 8 模板 | 12 分钟 |
 | 18 | [Kling Masterclass](18-kling-masterclass.md) ⭐ | 25 YouTube 频道(累计 6M+):5 要素公式 + Constraint Sandwich(O1)+ Style Bible Line + Multi-Shot 6 shots/15s + Motion Brush/Library + 3×3 网格 + Character Sheet + OmniEdit + 56 条 prompt | 18 分钟 |
 | 19 | [Seedance Round 3](19-seedance-masterclass-round3.md) ⭐ | 8 个新 YouTube 视频:三类 reference + CapCut Video Studio 三模式 + AI Anime 四步法 + 3×3 网格(替代 2×2)+ 视频扩展 30s + Advanced Guide 五段式 + BytePlus/ChatCut/Mitte 访问渠道 | 10 分钟 |
+
+### 跨工具流水线 / 角色一致性(20)
+
+| # | 文档 | 解决什么 | 读完需 |
+|---|---|---|---|
+| 20 | [写实角色一致性大师课](20-realistic-character-consistency.md) ⭐NEW | 20 个 YouTube 教学(累计 5M+ 播放):AI 网红制作完整流水线(MidJourney → Nano Banana → Kling/VEO/Seedance)+ 写实人像 5 段公式(Dan Kieft Prompt Pack)+ Character Sheet / Omni Reference / 3×3 网格 / Face Swap 5 大一致性技术 + 12 个写实图像技巧 + Arena Zero 4 人 AI 剧集案例 | 15 分钟 |
 
 > 05/06 镜头与约束词对所有 15 模型通用;04 情绪外化、03 分镜时序在 Kling/Sora/Higgsfield 都有效。
 > 15 篇 Masterclass 与 02 进阶公式互补 — 02 是官方 PDF 8 要素,15 是社区实战 9 要素 + Timeline,**三角验证可信度**。
