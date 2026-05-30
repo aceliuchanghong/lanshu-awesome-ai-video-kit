@@ -9364,7 +9364,8 @@
         "url": "https://x.com/MrLarus/status/2060588327409959082",
         "video_url": "https://video.twimg.com/amplify_video/2060586925543559171/vid/avc1/1080x1216/TO9DT93zSB4ChCJe.mp4?tag=27",
         "tier": "reputable-3rd-party",
-        "note": "玩法集合 #1 — 在图片画红线作为飞行路径,Seedance 沿线生成 FPV 镜头。把【起点/节点/终点/收尾】换成自己场景即可。详见 methodology/21-fpv-航拍路径绘制玩法.md"
+        "note": "玩法集合 #1 — 在图片画红线作为飞行路径,Seedance 沿线生成 FPV 镜头。把【起点/节点/终点/收尾】换成自己场景即可。详见 methodology/21-fpv-航拍路径绘制玩法.md",
+        "author": "@MrLarus (Larus Canus) — 玩法原创发明人,工作流+prompt 模板均由其首发公开"
       }
     },
     {
@@ -9391,7 +9392,8 @@
         "url": "https://x.com/MrLarus/status/2060588327409959082",
         "video_url": "https://video.twimg.com/amplify_video/2060586925543559171/vid/avc1/1080x1216/TO9DT93zSB4ChCJe.mp4?tag=27",
         "tier": "reputable-3rd-party",
-        "note": "玩法集合 #1 实际填充案例。Workflow:画线图 + 此 prompt → Seedance"
+        "note": "玩法集合 #1 实际填充案例。Workflow:画线图 + 此 prompt → Seedance",
+        "author": "@MrLarus (Larus Canus) — 玩法原创发明人,工作流+prompt 模板均由其首发公开"
       }
     },
     {
@@ -9419,7 +9421,8 @@
         "url": "https://x.com/MrLarus/status/2060267899382542341",
         "video_url": "https://video.twimg.com/amplify_video/2060267899382542341/vid/avc1/1080x1216/I__iW70_wy-nHwIg.mp4?tag=27",
         "tier": "reputable-3rd-party",
-        "note": "玩法集合 #1 城市航拍案例。可换任何城市轴线:北京中轴线 / 上海外滩 / 香港维港 / 巴黎香榭大道 等"
+        "note": "玩法集合 #1 城市航拍案例。可换任何城市轴线:北京中轴线 / 上海外滩 / 香港维港 / 巴黎香榭大道 等",
+        "author": "@MrLarus (Larus Canus) — 玩法原创发明人,工作流+prompt 模板均由其首发公开"
       }
     },
     {

@@ -1,8 +1,14 @@
 # 21 · 玩法集合 #1 · 画线控制 AI 航拍镜头(FPV 路径绘制)
 
-> 来源:[@MrLarus(Larus Canus)X 推文 2026-05-30](https://x.com/MrLarus/status/2060588327409959082)(45K 浏览·275 赞·233 bookmarks)
-> 引用案例:[@MrLarus 广州中轴线 FPV](https://x.com/MrLarus/status/2060267899382542341)(158K 浏览·1389 赞·210 RT)
->
+> ## 🙋 原创作者
+> **[@MrLarus](https://x.com/MrLarus) · Larus Canus**
+> 玩法发明人 / 工作流 + Prompt 模板 全部由作者本人原创公开。本文仅做归类整理 + 多模型迁移补充。
+> 转载、二次创作、商用,**请保留作者署名**并链回原推文。
+
+**两条原推**:
+- 🌍 主案例(世界地标 mashup):[x.com/MrLarus/status/2060588327409959082](https://x.com/MrLarus/status/2060588327409959082) — 45K 浏览 · 275 赞 · 233 bookmarks(2026-05-30)
+- 🏙 玩法起源(广州中轴线 FPV):[x.com/MrLarus/status/2060267899382542341](https://x.com/MrLarus/status/2060267899382542341) — 158K 浏览 · 1389 赞 · 210 RT
+
 > **本篇是「玩法集合」系列首篇**。"玩法"指的是某个具体可复现的创作流程,通常 1 张图 + 1 个 prompt + 1 个工具组合就能跑出完整案例。
 
 ---
